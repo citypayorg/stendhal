@@ -1,0 +1,8 @@
+﻿2020-11-18
+D:\java-2020-09\stendhal\src\games\stendhal\client\update
+game-default.properties
+
+##### http 아래 버전 변경 필요 #####
+https://arianne-project.org/stendhal.version
+1.36
+
