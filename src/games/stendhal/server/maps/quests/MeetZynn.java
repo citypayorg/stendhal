@@ -116,7 +116,7 @@ public class MeetZynn extends AbstractQuest {
 		npc
 				.addReply(
 						"get",
-						"You can get a map of Stendhal at #https://stendhalgame.org/world/atlas.html if you want one. Careful you don't spoil any surprises for yourself, though!");
+						"You can get a map of Stendhal at #http://game.citypay.org/world/atlas.html if you want one. Careful you don't spoil any surprises for yourself, though!");
 
 		npc
 				.addReply(

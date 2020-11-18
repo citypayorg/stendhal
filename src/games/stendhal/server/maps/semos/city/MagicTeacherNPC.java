@@ -83,7 +83,7 @@ public class MagicTeacherNPC implements ZoneConfigurator {
 		};
 		npc.addGreeting("Hello, I am the magic teacher! I can #teach you about magic.");
 		npc.addJob("My job is to #teach you a bit about magic, so you can try it out here.");
-		npc.addHelp("If you need further help #https://stendhalgame.org/wiki/Ideas_for_Stendhal/Magic or you can ask in #'#arianne' for help.");
+		npc.addHelp("If you need further help #http://game.citypay.org/wiki/Ideas_for_Stendhal/Magic or you can ask in #'#arianne' for help.");
 		npc.addOffer("I can offer to #teach you about magic.");
 		npc.addGoodbye("Stay magical!");
 		npc.setPosition(20, 26);

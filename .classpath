@@ -2,7 +2,11 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="src" path="tests"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
 	<classpathentry kind="lib" path="libs/ant.jar"/>
 	<classpathentry kind="lib" path="libs/cglib-nodep-2.2_beta1.jar"/>
 	<classpathentry kind="lib" path="libs/easymock.jar"/>
@@ -28,16 +32,17 @@
 	<classpathentry kind="lib" path="libs/junit-4.12.jar"/>
 	<classpathentry kind="lib" path="libs/java-hamcrest-2.0.0.0.jar" sourcepath="/home/brummermann/.m2/repository/org/hamcrest/java-hamcrest/2.0.0.0/java-hamcrest-2.0.0.0-sources.jar"/>
 	<classpathentry kind="lib" path="libs/marauroa.jar" sourcepath="/marauroa"/>
-	<classpathentry kind="lib" path="libs/jetty-client-9.2.14.v20151106.jar"/>
-	<classpathentry kind="lib" path="libs/jetty-continuation-9.2.14.v20151106.jar"/>
-	<classpathentry kind="lib" path="libs/jetty-http-9.2.14.v20151106.jar"/>
-	<classpathentry kind="lib" path="libs/jetty-io-9.2.14.v20151106.jar"/>
-	<classpathentry kind="lib" path="libs/jetty-security-9.2.14.v20151106.jar"/>
-	<classpathentry kind="lib" path="libs/jetty-server-9.2.14.v20151106.jar"/>
-	<classpathentry kind="lib" path="libs/jetty-servlet-9.2.14.v20151106.jar"/>
-	<classpathentry kind="lib" path="libs/jetty-util-9.2.14.v20151106.jar"/>
-	<classpathentry kind="lib" path="libs/jetty-webapp-9.2.14.v20151106.jar"/>
-	<classpathentry kind="lib" path="libs/jetty-xml-9.2.14.v20151106.jar"/>
+	<classpathentry kind="lib" path="libs/jetty-client-9.4.34.v20201102.jar"/>
+	<classpathentry kind="lib" path="libs/jetty-continuation-9.4.34.v20201102.jar"/>
+	<classpathentry kind="lib" path="libs/jetty-http-9.4.34.v20201102.jar"/>
+	<classpathentry kind="lib" path="libs/jetty-io-9.4.34.v20201102.jar"/>
+	<classpathentry kind="lib" path="libs/jetty-security-9.4.34.v20201102.jar"/>
+	<classpathentry kind="lib" path="libs/jetty-server-9.4.34.v20201102.jar"/>
+	<classpathentry kind="lib" path="libs/jetty-servlet-9.4.34.v20201102.jar"/>
+	<classpathentry kind="lib" path="libs/jetty-util-9.4.34.v20201102.jar"/>
+	<classpathentry kind="lib" path="libs/jetty-webapp-9.4.34.v20201102.jar"/>
+	<classpathentry kind="lib" path="libs/jetty-xml-9.4.34.v20201102.jar"/>
 	<classpathentry kind="lib" path="libs/luaj-jse-3.0.1.jar" sourcepath="/luaj"/>
+	<classpathentry kind="lib" path="build.xml"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

@@ -1,6 +1,6 @@
 # Contributors
 
-This page is work in progress. Many people and details are still missing. Please <a href="https://stendhalgame.org/chat/">let us know</a>.
+This page is work in progress. Many people and details are still missing. Please <a href="http://game.citypay.org/chat/">let us know</a>.
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
@@ -26,7 +26,7 @@ This page is work in progress. Many people and details are still missing. Please
 🗺</span> <span title="graphics">
 🎨</span> <span title="content">
 🖋</span> </td>
- <td align="center" width="0%"><a href="https://www.openhub.net/accounts/15277"><img src="https://gravatar.com/avatar/47fe272e163794babfc76306e18b93f6.jpg?s=64&rating=PG&d=https://stendhalgame.org/images/profile/kiheru.png" width="64" height="64" alt=""><br /><sub><b>Kimmo Rundelin</b></sub></a><br /><span title="code">
+ <td align="center" width="0%"><a href="https://www.openhub.net/accounts/15277"><img src="https://gravatar.com/avatar/47fe272e163794babfc76306e18b93f6.jpg?s=64&rating=PG&d=http://game.citypay.org/images/profile/kiheru.png" width="64" height="64" alt=""><br /><sub><b>Kimmo Rundelin</b></sub></a><br /><span title="code">
 💻</span> <span title="graphics">
 🎨</span> <span title="maps">
 🗺</span> <span title="bug">
@@ -37,7 +37,7 @@ This page is work in progress. Many people and details are still missing. Please
 🤔</span> </td>
 </tr>
 <tr>
- <td align="center" width="0%"><a href=""><img src="https://gravatar.com/avatar/25c2fd9797203da2ed1ac801df0bc374.jpg?s=64&rating=PG&d=https://stendhalgame.org/images/profile/durkham.png" width="64" height="64" alt=""><br /><sub><b>Astrid Sawatzky</b></sub></a><br /><span title="code">
+ <td align="center" width="0%"><a href=""><img src="https://gravatar.com/avatar/25c2fd9797203da2ed1ac801df0bc374.jpg?s=64&rating=PG&d=http://game.citypay.org/images/profile/durkham.png" width="64" height="64" alt=""><br /><sub><b>Astrid Sawatzky</b></sub></a><br /><span title="code">
 💻</span> <span title="maps">
 🗺</span> <span title="test">
 ⚠️</span> <span title="graphics">
@@ -61,7 +61,7 @@ This page is work in progress. Many people and details are still missing. Please
 💻</span> <span title="graphics">
 🎨</span> <span title="maps">
 🗺</span> </td>
- <td align="center" width="0%"><a href="https://www.openhub.net/p/stendhal/contributors/15940771977855"><img src="https://gravatar.com/avatar/f882eeed98bb5afbc521b26cb868940c.jpg?s=64&rating=PG&d=https://stendhalgame.org/images/profile/chad3f.png" width="64" height="64" alt=""><br /><sub><b>Chad F</b></sub></a><br /><span title="code">
+ <td align="center" width="0%"><a href="https://www.openhub.net/p/stendhal/contributors/15940771977855"><img src="https://gravatar.com/avatar/f882eeed98bb5afbc521b26cb868940c.jpg?s=64&rating=PG&d=http://game.citypay.org/images/profile/chad3f.png" width="64" height="64" alt=""><br /><sub><b>Chad F</b></sub></a><br /><span title="code">
 💻</span> <span title="maps">
 🗺</span> <span title="bug">
 🐛</span> </td>
@@ -91,7 +91,7 @@ This page is work in progress. Many people and details are still missing. Please
 🗺</span> <span title="bug">
 🐛</span> <span title="ideas">
 🤔</span> </td>
- <td align="center" width="0%"><a href="https://www.openhub.net/p/stendhal/contributors/15940772664883"><img src="https://gravatar.com/avatar/a06c8bce7a84aa3f2a955b15f17b8c26.jpg?s=64&rating=PG&d=https://stendhalgame.org/images/profile/olonu.png" width="64" height="64" alt=""><br /><sub><b>olonu</b></sub></a><br /><span title="graphics">
+ <td align="center" width="0%"><a href="https://www.openhub.net/p/stendhal/contributors/15940772664883"><img src="https://gravatar.com/avatar/a06c8bce7a84aa3f2a955b15f17b8c26.jpg?s=64&rating=PG&d=http://game.citypay.org/images/profile/olonu.png" width="64" height="64" alt=""><br /><sub><b>olonu</b></sub></a><br /><span title="graphics">
 🎨</span> </td>
 </tr>
 <tr>
@@ -100,7 +100,7 @@ This page is work in progress. Many people and details are still missing. Please
 🗺</span> <span title="bug">
 🐛</span> <span title="ideas">
 🤔</span> </td>
- <td align="center" width="0%"><a href="https://www.openhub.net/p/stendhal/contributors/15940771977861"><img src="https://gravatar.com/avatar/1abbf8f051d78a7eab3577398c03e844.jpg?s=64&rating=PG&d=https://stendhalgame.org/images/profile/dine.png" width="64" height="64" alt=""><br /><sub><b>Nadine Schlonies</b></sub></a><br /><span title="code">
+ <td align="center" width="0%"><a href="https://www.openhub.net/p/stendhal/contributors/15940771977861"><img src="https://gravatar.com/avatar/1abbf8f051d78a7eab3577398c03e844.jpg?s=64&rating=PG&d=http://game.citypay.org/images/profile/dine.png" width="64" height="64" alt=""><br /><sub><b>Nadine Schlonies</b></sub></a><br /><span title="code">
 💻</span> <span title="maps">
 🗺</span> <span title="content">
 🖋</span> <span title="bug">
@@ -109,27 +109,27 @@ This page is work in progress. Many people and details are still missing. Please
 🎨</span> <span title="code">
 💻</span> <span title="ideas">
 🤔</span> </td>
- <td align="center" width="0%"><a href="https://www.openhub.net/accounts/Laguz"><img src="https://gravatar.com/avatar/d24ffb02627e23e2c80c8c7bda13a133.jpg?s=64&rating=PG&d=https://stendhalgame.org/images/profile/laguz.png" width="64" height="64" alt=""><br /><sub><b>Marco Engelmann</b></sub></a><br /><span title="content">
+ <td align="center" width="0%"><a href="https://www.openhub.net/accounts/Laguz"><img src="https://gravatar.com/avatar/d24ffb02627e23e2c80c8c7bda13a133.jpg?s=64&rating=PG&d=http://game.citypay.org/images/profile/laguz.png" width="64" height="64" alt=""><br /><sub><b>Marco Engelmann</b></sub></a><br /><span title="content">
 🖋</span> <span title="code">
 💻</span> <span title="bug">
 🐛</span> <span title="ideas">
 🤔</span> </td>
- <td align="center" width="0%"><a href="https://www.openhub.net/p/stendhal/contributors/15940771977863"><img src="https://gravatar.com/avatar/a69cfbd309a7e57c1cc0812d8bcc0f02.jpg?s=64&rating=PG&d=https://stendhalgame.org/images/profile/teiv.png" width="64" height="64" alt=""><br /><sub><b>Teiv</b></sub></a><br /><span title="maps">
+ <td align="center" width="0%"><a href="https://www.openhub.net/p/stendhal/contributors/15940771977863"><img src="https://gravatar.com/avatar/a69cfbd309a7e57c1cc0812d8bcc0f02.jpg?s=64&rating=PG&d=http://game.citypay.org/images/profile/teiv.png" width="64" height="64" alt=""><br /><sub><b>Teiv</b></sub></a><br /><span title="maps">
 🗺</span> <span title="code">
 💻</span> <span title="content">
 🖋</span> <span title="bug">
 🐛</span> </td>
- <td align="center" width="0%"><a href="https://www.openhub.net/p/stendhal/contributors/15940771977858"><img src="https://gravatar.com/avatar/ffa283ba87fa49149d9883a1f25a80d1.jpg?s=64&rating=PG&d=https://stendhalgame.org/images/profile/berserkera3.png" width="64" height="64" alt=""><br /><sub><b>Berserker A3</b></sub></a><br /><span title="maps">
+ <td align="center" width="0%"><a href="https://www.openhub.net/p/stendhal/contributors/15940771977858"><img src="https://gravatar.com/avatar/ffa283ba87fa49149d9883a1f25a80d1.jpg?s=64&rating=PG&d=http://game.citypay.org/images/profile/berserkera3.png" width="64" height="64" alt=""><br /><sub><b>Berserker A3</b></sub></a><br /><span title="maps">
 🗺</span> <span title="bug">
 🐛</span> <span title="ideas">
 🤔</span> </td>
 </tr>
 <tr>
- <td align="center" width="0%"><a href="https://www.openhub.net/p/stendhal/contributors/15940771311913"><img src="https://gravatar.com/avatar/302f1cc269c2b331c18078afb4cac0ab.jpg?s=64&rating=PG&d=https://stendhalgame.org/images/profile/plassy.png" width="64" height="64" alt=""><br /><sub><b>plassy</b></sub></a><br /><span title="code">
+ <td align="center" width="0%"><a href="https://www.openhub.net/p/stendhal/contributors/15940771311913"><img src="https://gravatar.com/avatar/302f1cc269c2b331c18078afb4cac0ab.jpg?s=64&rating=PG&d=http://game.citypay.org/images/profile/plassy.png" width="64" height="64" alt=""><br /><sub><b>plassy</b></sub></a><br /><span title="code">
 💻</span> <span title="bug">
 🐛</span> <span title="ideas">
 🤔</span> </td>
- <td align="center" width="0%"><a href="https://www.openhub.net/p/stendhal/contributors/15940771779586"><img src="https://gravatar.com/avatar/fd562e83b916a848e480ae4e553a9d40.jpg?s=64&rating=PG&d=https://stendhalgame.org/images/profile/storyteller.png" width="64" height="64" alt=""><br /><sub><b>Storyteller</b></sub></a><br /><span title="audio">
+ <td align="center" width="0%"><a href="https://www.openhub.net/p/stendhal/contributors/15940771779586"><img src="https://gravatar.com/avatar/fd562e83b916a848e480ae4e553a9d40.jpg?s=64&rating=PG&d=http://game.citypay.org/images/profile/storyteller.png" width="64" height="64" alt=""><br /><sub><b>Storyteller</b></sub></a><br /><span title="audio">
 🔊</span> <span title="maps">
 🗺</span> <span title="code">
 💻</span> <span title="content">
@@ -143,7 +143,7 @@ This page is work in progress. Many people and details are still missing. Please
 🗺</span> <span title="content">
 🖋</span> <span title="bug">
 🐛</span> </td>
- <td align="center" width="0%"><a href="https://www.openhub.net/p/stendhal/contributors/15940771157307"><img src="https://gravatar.com/avatar/c8d538c1ba4164554269035d0689c31c.jpg?s=64&rating=PG&d=https://stendhalgame.org/images/profile/sshk5.png" width="64" height="64" alt=""><br /><sub><b>sshk5</b></sub></a><br /><span title="maps">
+ <td align="center" width="0%"><a href="https://www.openhub.net/p/stendhal/contributors/15940771157307"><img src="https://gravatar.com/avatar/c8d538c1ba4164554269035d0689c31c.jpg?s=64&rating=PG&d=http://game.citypay.org/images/profile/sshk5.png" width="64" height="64" alt=""><br /><sub><b>sshk5</b></sub></a><br /><span title="maps">
 🗺</span> <span title="bug">
 🐛</span> </td>
  <td align="center" width="0%"><a href="https://www.openhub.net/p/stendhal/contributors/15940771977873"><img src="https://gravatar.com/avatar/eae46117effb1bc840c96fe2c6d2371a.jpg?s=64&rating=PG&d=wavatar" width="64" height="64" alt=""><br /><sub><b>Balaur</b></sub></a><br /><span title="code">
@@ -153,17 +153,17 @@ This page is work in progress. Many people and details are still missing. Please
 🤔</span> </td>
 </tr>
 <tr>
- <td align="center" width="0%"><a href="https://www.openhub.net/p/stendhal/contributors/15940771148456"><img src="https://gravatar.com/avatar/99da6a0d8f5d67c62b1ef552d777d3c4.jpg?s=64&rating=PG&d=https://stendhalgame.org/images/profile/seather.png" width="64" height="64" alt=""><br /><sub><b>seather</b></sub></a><br /><span title="code">
+ <td align="center" width="0%"><a href="https://www.openhub.net/p/stendhal/contributors/15940771148456"><img src="https://gravatar.com/avatar/99da6a0d8f5d67c62b1ef552d777d3c4.jpg?s=64&rating=PG&d=http://game.citypay.org/images/profile/seather.png" width="64" height="64" alt=""><br /><sub><b>seather</b></sub></a><br /><span title="code">
 💻</span> <span title="content">
 🖋</span> </td>
- <td align="center" width="0%"><a href="https://www.openhub.net/p/stendhal/contributors/15940771977871"><img src="https://gravatar.com/avatar/c762d0ef602a1ad4fc4fb94ef3be6f98.jpg?s=64&rating=PG&d=https://stendhalgame.org/images/profile/redqueen.png" width="64" height="64" alt=""><br /><sub><b>Red Queen</b></sub></a><br /><span title="content">
+ <td align="center" width="0%"><a href="https://www.openhub.net/p/stendhal/contributors/15940771977871"><img src="https://gravatar.com/avatar/c762d0ef602a1ad4fc4fb94ef3be6f98.jpg?s=64&rating=PG&d=http://game.citypay.org/images/profile/redqueen.png" width="64" height="64" alt=""><br /><sub><b>Red Queen</b></sub></a><br /><span title="content">
 🖋</span> <span title="code">
 💻</span> <span title="maps">
 🗺</span> </td>
  <td align="center" width="0%"><a href="https://www.openhub.net/p/stendhal/contributors/15940771784960"><img src="https://gravatar.com/avatar/8467df814b0397399af3c754269a8031.jpg?s=64&rating=PG&d=wavatar" width="64" height="64" alt=""><br /><sub><b>Benjamin Lerman</b></sub></a><br /><span title="code">
 💻</span> <span title="bug">
 🐛</span> </td>
- <td align="center" width="0%"><a href="https://www.openhub.net/p/stendhal/contributors/15940771977859"><img src="https://gravatar.com/avatar/1a35f34c16d2e6534910c078fbfcfdeb.jpg?s=64&rating=PG&d=https://stendhalgame.org/images/profile/kawn.png" width="64" height="64" alt=""><br /><sub><b>Jose Luis Cabello</b></sub></a><br /><span title="code">
+ <td align="center" width="0%"><a href="https://www.openhub.net/p/stendhal/contributors/15940771977859"><img src="https://gravatar.com/avatar/1a35f34c16d2e6534910c078fbfcfdeb.jpg?s=64&rating=PG&d=http://game.citypay.org/images/profile/kawn.png" width="64" height="64" alt=""><br /><sub><b>Jose Luis Cabello</b></sub></a><br /><span title="code">
 💻</span> <span title="bug">
 🐛</span> <span title="ideas">
 🤔</span> </td>
@@ -172,7 +172,7 @@ This page is work in progress. Many people and details are still missing. Please
 🖋</span> <span title="code">
 💻</span> <span title="bug">
 🐛</span> </td>
- <td align="center" width="0%"><a href="https://www.openhub.net/p/stendhal/contributors/15940771165258"><img src="https://gravatar.com/avatar/cdf68260d2e681cdf1cf8a31fd577846.jpg?s=64&rating=PG&d=https://stendhalgame.org/images/profile/johnnnny.png" width="64" height="64" alt=""><br /><sub><b>johnnnny</b></sub></a><br /><span title="content">
+ <td align="center" width="0%"><a href="https://www.openhub.net/p/stendhal/contributors/15940771165258"><img src="https://gravatar.com/avatar/cdf68260d2e681cdf1cf8a31fd577846.jpg?s=64&rating=PG&d=http://game.citypay.org/images/profile/johnnnny.png" width="64" height="64" alt=""><br /><sub><b>johnnnny</b></sub></a><br /><span title="content">
 🖋</span> <span title="code">
 💻</span> <span title="maps">
 🗺</span> </td>
@@ -183,14 +183,14 @@ This page is work in progress. Many people and details are still missing. Please
 🗺</span> <span title="bug">
 🐛</span> <span title="ideas">
 🤔</span> </td>
- <td align="center" width="0%"><a href="https://www.openhub.net/p/stendhal/contributors/15940771573012"><img src="https://gravatar.com/avatar/63cbf74e2e097a25aea21824b174c809.jpg?s=64&rating=PG&d=https://stendhalgame.org/images/profile/sjtsp.png" width="64" height="64" alt=""><br /><sub><b>sjtsp2008</b></sub></a><br /><span title="code">
+ <td align="center" width="0%"><a href="https://www.openhub.net/p/stendhal/contributors/15940771573012"><img src="https://gravatar.com/avatar/63cbf74e2e097a25aea21824b174c809.jpg?s=64&rating=PG&d=http://game.citypay.org/images/profile/sjtsp.png" width="64" height="64" alt=""><br /><sub><b>sjtsp2008</b></sub></a><br /><span title="code">
 💻</span> <span title="content">
 🖋</span> <span title="ideas">
 🤔</span> </td>
- <td align="center" width="0%"><a href="https://www.openhub.net/p/stendhal/contributors/15940771640206"><img src="https://gravatar.com/avatar/6d7f7aa5b40e7105fe2117f268568f54?s=64&rating=PG&d=https://stendhalgame.org/images/profile/lumocra.png" width="64" height="64" alt=""><br /><sub><b>Arco Mul</b></sub></a><br /><span title="code">
+ <td align="center" width="0%"><a href="https://www.openhub.net/p/stendhal/contributors/15940771640206"><img src="https://gravatar.com/avatar/6d7f7aa5b40e7105fe2117f268568f54?s=64&rating=PG&d=http://game.citypay.org/images/profile/lumocra.png" width="64" height="64" alt=""><br /><sub><b>Arco Mul</b></sub></a><br /><span title="code">
 💻</span> <span title="maps">
 🗺</span> </td>
- <td align="center" width="0%"><a href="https://www.openhub.net/p/stendhal/contributors/15940771585749"><img src="https://gravatar.com/avatar/266a0f938de29c84f158275a3de492ab.jpg?s=64&rating=PG&d=https://stendhalgame.org/images/profile/filinep.png" width="64" height="64" alt=""><br /><sub><b>filinep</b></sub></a><br /><span title="content">
+ <td align="center" width="0%"><a href="https://www.openhub.net/p/stendhal/contributors/15940771585749"><img src="https://gravatar.com/avatar/266a0f938de29c84f158275a3de492ab.jpg?s=64&rating=PG&d=http://game.citypay.org/images/profile/filinep.png" width="64" height="64" alt=""><br /><sub><b>filinep</b></sub></a><br /><span title="content">
 🖋</span> <span title="maps">
 🗺</span> <span title="code">
 💻</span> </td>
@@ -205,7 +205,7 @@ This page is work in progress. Many people and details are still missing. Please
  <td align="center" width="0%"><a href="https://www.openhub.net/p/stendhal/contributors/15940771139168"><img src="https://gravatar.com/avatar/88e84e8d224fa123fcb67ed60e00164d.jpg?s=64&rating=PG&d=wavatar" width="64" height="64" alt=""><br /><sub><b>Waldemar Tribus</b></sub></a><br /><span title="code">
 💻</span> <span title="bug">
 🐛</span> </td>
- <td align="center" width="0%"><a href="https://www.openhub.net/p/stendhal/contributors/15940771573672"><img src="https://gravatar.com/avatar/20916c4de4dccdf3a0637adc7382f2a1.jpg?s=64&rating=PG&d=https://stendhalgame.org/images/profile/monsterdhal.png" width="64" height="64" alt=""><br /><sub><b>monsterdhal</b></sub></a><br /><span title="code">
+ <td align="center" width="0%"><a href="https://www.openhub.net/p/stendhal/contributors/15940771573672"><img src="https://gravatar.com/avatar/20916c4de4dccdf3a0637adc7382f2a1.jpg?s=64&rating=PG&d=http://game.citypay.org/images/profile/monsterdhal.png" width="64" height="64" alt=""><br /><sub><b>monsterdhal</b></sub></a><br /><span title="code">
 💻</span> <span title="content">
 🖋</span> <span title="doc">
 📖</span> <span title="bug">
@@ -217,7 +217,7 @@ This page is work in progress. Many people and details are still missing. Please
 💻</span> <span title="bug">
 🐛</span> <span title="ideas">
 🤔</span> </td>
- <td align="center" width="0%"><a href="https://www.openhub.net/p/stendhal/contributors/15940773061551"><img src="https://gravatar.com/avatar/1e9cc669830a0248353cf98b6fda8b38.jpg?s=64&rating=PG&d=https://stendhalgame.org/images/profile/karajuss.png" width="64" height="64" alt=""><br /><sub><b>KarajuSs</b></sub></a><br /><span title="code">
+ <td align="center" width="0%"><a href="https://www.openhub.net/p/stendhal/contributors/15940773061551"><img src="https://gravatar.com/avatar/1e9cc669830a0248353cf98b6fda8b38.jpg?s=64&rating=PG&d=http://game.citypay.org/images/profile/karajuss.png" width="64" height="64" alt=""><br /><sub><b>KarajuSs</b></sub></a><br /><span title="code">
 💻</span> </td>
  <td align="center" width="0%"><a href="https://www.openhub.net/p/stendhal/contributors/15940771977857"><img src="https://gravatar.com/avatar/e1047ce1dba5cd5a98d7ac34ded078ee.jpg?s=64&rating=PG&d=wavatar" width="64" height="64" alt=""><br /><sub><b>p do</b></sub></a><br /><span title="code">
 💻</span> <span title="ideas">
@@ -237,13 +237,13 @@ This page is work in progress. Many people and details are still missing. Please
 🖋</span> <span title="bug">
 🐛</span> <span title="ideas">
 🤔</span> </td>
- <td align="center" width="0%"><a href="https://www.openhub.net/p/stendhal/contributors/15940772664880"><img src="https://gravatar.com/avatar/666b9bb87d245a859f70f147c01904e3.jpg?s=64&rating=PG&d=https://stendhalgame.org/images/profile/jastiv.png" width="64" height="64" alt=""><br /><sub><b>Lori Angela Nagel</b></sub></a><br /><span title="content">
+ <td align="center" width="0%"><a href="https://www.openhub.net/p/stendhal/contributors/15940772664880"><img src="https://gravatar.com/avatar/666b9bb87d245a859f70f147c01904e3.jpg?s=64&rating=PG&d=http://game.citypay.org/images/profile/jastiv.png" width="64" height="64" alt=""><br /><sub><b>Lori Angela Nagel</b></sub></a><br /><span title="content">
 🖋</span> </td>
  <td align="center" width="0%"><a href="https://www.openhub.net/p/stendhal/contributors/15940771703239"><img src="https://gravatar.com/avatar/a142253c42c6ecc08882107c3c3c4f7b.jpg?s=64&rating=PG&d=wavatar" width="64" height="64" alt=""><br /><sub><b>Tobias Frei</b></sub></a><br /><span title="code">
 💻</span> </td>
 </tr>
 <tr>
- <td align="center" width="0%"><a href="https://www.openhub.net/p/stendhal/contributors/15940771139179"><img src="https://gravatar.com/avatar/0fcbac86dbc42e1235a8a44bb03b4ffa.jpg?s=64&rating=PG&d=https://stendhalgame.org/images/profile/oslsachem.png" width="64" height="64" alt=""><br /><sub><b>oslsachem</b></sub></a><br /><span title="content">
+ <td align="center" width="0%"><a href="https://www.openhub.net/p/stendhal/contributors/15940771139179"><img src="https://gravatar.com/avatar/0fcbac86dbc42e1235a8a44bb03b4ffa.jpg?s=64&rating=PG&d=http://game.citypay.org/images/profile/oslsachem.png" width="64" height="64" alt=""><br /><sub><b>oslsachem</b></sub></a><br /><span title="content">
 🖋</span> <span title="question">
 💬</span> <span title="bug">
 🐛</span> <span title="ideas">
@@ -254,7 +254,7 @@ This page is work in progress. Many people and details are still missing. Please
 🖋</span> <span title="bug">
 🐛</span> <span title="ideas">
 🤔</span> </td>
- <td align="center" width="0%"><a href="https://www.openhub.net/p/stendhal/contributors/15940773144751"><img src="https://gravatar.com/avatar/7cf637ca7fd4629c3a2db7ebc38e6921.jpg?s=64&rating=PG&d=https://stendhalgame.org/images/profile/kribbel.png" width="64" height="64" alt=""><br /><sub><b>kribbel</b></sub></a><br /><span title="content">
+ <td align="center" width="0%"><a href="https://www.openhub.net/p/stendhal/contributors/15940773144751"><img src="https://gravatar.com/avatar/7cf637ca7fd4629c3a2db7ebc38e6921.jpg?s=64&rating=PG&d=http://game.citypay.org/images/profile/kribbel.png" width="64" height="64" alt=""><br /><sub><b>kribbel</b></sub></a><br /><span title="content">
 🖋</span> <span title="code">
 💻</span> </td>
  <td align="center" width="0%"><a href="https://www.openhub.net/p/stendhal/contributors/15940772269452"><img src="https://gravatar.com/avatar/10fa59baa9f5f86bc69b2b0f613cb510.jpg?s=64&rating=PG&d=wavatar" width="64" height="64" alt=""><br /><sub><b>Alexandru-Paul Copil</b></sub></a><br /></td>
@@ -264,39 +264,39 @@ This page is work in progress. Many people and details are still missing. Please
 <tr>
 </tr>
 <tr>
- <td align="center" width="0%"><a href="https://www.openhub.net/accounts/22963"><img src="https://gravatar.com/avatar/81f0648d91866f53ecf9a178e6f503e5?s=64&rating=PG&d=https://stendhalgame.org/images/profile/kezman.png" width="64" height="64" alt=""><br /><sub><b>Kezman Rafael</b></sub></a><br /></td>
+ <td align="center" width="0%"><a href="https://www.openhub.net/accounts/22963"><img src="https://gravatar.com/avatar/81f0648d91866f53ecf9a178e6f503e5?s=64&rating=PG&d=http://game.citypay.org/images/profile/kezman.png" width="64" height="64" alt=""><br /><sub><b>Kezman Rafael</b></sub></a><br /></td>
  <td align="center" width="0%"><a href="https://sourceforge.net/u/athanasi/profile"><img src="https://secure.gravatar.com/avatar/a1d5637e0c40367fc78dc2ee27d24bdf?s=64&rating=PG&d=robohash" width="64" height="64" alt=""><br /><sub><b>Athana</b></sub></a><br /><span title="maps">
 🗺</span> <span title="ideas">
 🤔</span> <span title="bug">
 🐛</span> </td>
- <td align="center" width="0%"><a href="https://stendhalgame.org/character/lenocas.html"><img src="https://stendhalgame.org/images/profile/lenocas.png" width="64" height="64" alt=""><br /><sub><b>Lenocas</b></sub></a><br /><span title="maps">
+ <td align="center" width="0%"><a href="http://game.citypay.org/character/lenocas.html"><img src="http://game.citypay.org/images/profile/lenocas.png" width="64" height="64" alt=""><br /><sub><b>Lenocas</b></sub></a><br /><span title="maps">
 🗺</span> </td>
- <td align="center" width="0%"><a href="https://stendhalgame.org/character/Atlan.html"><img src="https://stendhalgame.org/images/profile/Atlan.png" width="64" height="64" alt=""><br /><sub><b>Atlan</b></sub></a><br /><span title="bug">
+ <td align="center" width="0%"><a href="http://game.citypay.org/character/Atlan.html"><img src="http://game.citypay.org/images/profile/Atlan.png" width="64" height="64" alt=""><br /><sub><b>Atlan</b></sub></a><br /><span title="bug">
 🐛</span> </td>
  <td align="center" width="0%"><a href="https://sourceforge.net/u/athalcus/profile"><img src="https://secure.gravatar.com/avatar/088f58913a079797b45866af10f9e63f?s=64&rating=PG&d=retro" width="64" height="64" alt=""><br /><sub><b>Laurent Soubrevilla</b></sub></a><br /><span title="bug">
 🐛</span> </td>
- <td align="center" width="0%"><a href="https://sourceforge.net/u/samoa/profile"><img src="https://secure.gravatar.com/avatar/6b0b232e7a4aa93b5c5c8cbdaeda5875?s=64&rating=PG&d=https://stendhalgame.org/images/profile/samoa.png" width="64" height="64" alt=""><br /><sub><b>Kim Purnell</b></sub></a><br /><span title="graphics">
+ <td align="center" width="0%"><a href="https://sourceforge.net/u/samoa/profile"><img src="https://secure.gravatar.com/avatar/6b0b232e7a4aa93b5c5c8cbdaeda5875?s=64&rating=PG&d=http://game.citypay.org/images/profile/samoa.png" width="64" height="64" alt=""><br /><sub><b>Kim Purnell</b></sub></a><br /><span title="graphics">
 🎨</span> <span title="ideas">
 🤔</span> </td>
 </tr>
 <tr>
- <td align="center" width="0%"><a href="https://stendhalgame.org/character/vesper.html"><img src="https://stendhalgame.org/images/profile/vesper.png" width="64" height="64" alt=""><br /><sub><b>vesper</b></sub></a><br /><span title="content">
+ <td align="center" width="0%"><a href="http://game.citypay.org/character/vesper.html"><img src="http://game.citypay.org/images/profile/vesper.png" width="64" height="64" alt=""><br /><sub><b>vesper</b></sub></a><br /><span title="content">
 🖋</span> <span title="graphics">
 🎨</span> </td>
- <td align="center" width="0%"><a href="https://stendhalgame.org/character/Tiborius.html"><img src="https://stendhalgame.org/images/profile/Tiborius.png" width="64" height="64" alt=""><br /><sub><b>Tiborius</b></sub></a><br /><span title="graphics">
+ <td align="center" width="0%"><a href="http://game.citypay.org/character/Tiborius.html"><img src="http://game.citypay.org/images/profile/Tiborius.png" width="64" height="64" alt=""><br /><sub><b>Tiborius</b></sub></a><br /><span title="graphics">
 🎨</span> </td>
  <td align="center" width="0%"><a href="https://sourceforge.net/u/janay/profile"><img src="https://secure.gravatar.com/avatar/0e35a305f3b1f4fc2125efb08d176ba1?s=64&rating=PG&d=monsterid" width="64" height="64" alt=""><br /><sub><b>Janay</b></sub></a><br /><span title="graphics">
 🎨</span> <span title="bug">
 🐛</span> <span title="ideas">
 🤔</span> </td>
- <td align="center" width="0%"><a href="https://stendhalgame.org/character/gummipferd.html"><img src="https://stendhalgame.org/images/profile/gummipferd.png" width="64" height="64" alt=""><br /><sub><b>Yenal</b></sub></a><br /><span title="maps">
+ <td align="center" width="0%"><a href="http://game.citypay.org/character/gummipferd.html"><img src="http://game.citypay.org/images/profile/gummipferd.png" width="64" height="64" alt=""><br /><sub><b>Yenal</b></sub></a><br /><span title="maps">
 🗺</span> <span title="graphics">
 🎨</span> <span title="ideas">
 🤔</span> </td>
  <td align="center" width="0%"><a href="https://sourceforge.net/u/freakuser/profile"><img src="https://secure.gravatar.com/avatar/424b38c5f9d4677a6451f11926af831b?s=64&rating=PG&d=monsterid" width="64" height="64" alt=""><br /><sub><b>Lazarus Lead</b></sub></a><br /><span title="graphics">
 🎨</span> <span title="ideas">
 🤔</span> </td>
- <td align="center" width="0%"><a href="https://sourceforge.net/u/pepzs/profile"><img src="https://secure.gravatar.com/avatar/dff9f27c3c606ddf2d76f886a0d7d6b6?s=64&rating=PG&d=https://stendhalgame.org/images/profile/pepzs.png" width="64" height="64" alt=""><br /><sub><b>Guilherme Silva</b></sub></a><br /><span title="security">
+ <td align="center" width="0%"><a href="https://sourceforge.net/u/pepzs/profile"><img src="https://secure.gravatar.com/avatar/dff9f27c3c606ddf2d76f886a0d7d6b6?s=64&rating=PG&d=http://game.citypay.org/images/profile/pepzs.png" width="64" height="64" alt=""><br /><sub><b>Guilherme Silva</b></sub></a><br /><span title="security">
 🛡️</span> <span title="bug">
 🐛</span> <span title="ideas">
 🤔</span> </td>
@@ -307,7 +307,7 @@ This page is work in progress. Many people and details are still missing. Please
  <td align="center" width="0%"><a href="https://sourceforge.net/u/adam-baker/profile"><img src="https://secure.gravatar.com/avatar/0b090b98969ea94279c5e5e07fa26d91?s=64&rating=PG&d=robohash" width="64" height="64" alt=""><br /><sub><b>Adam Baker</b></sub></a><br /><span title="bug">
 🐛</span> <span title="ideas">
 🤔</span> </td>
- <td align="center" width="0%"><a href="https://sourceforge.net/u/alexbobp/profile"><img src="https://secure.gravatar.com/avatar/c701fbd8aa9a22ea7028abbfa50e65cf?s=64&rating=PG&d=https://stendhalgame.org/images/profile/alexbobp.png" width="64" height="64" alt=""><br /><sub><b>Alex</b></sub></a><br /><span title="bug">
+ <td align="center" width="0%"><a href="https://sourceforge.net/u/alexbobp/profile"><img src="https://secure.gravatar.com/avatar/c701fbd8aa9a22ea7028abbfa50e65cf?s=64&rating=PG&d=http://game.citypay.org/images/profile/alexbobp.png" width="64" height="64" alt=""><br /><sub><b>Alex</b></sub></a><br /><span title="bug">
 🐛</span> <span title="ideas">
 🤔</span> </td>
  <td align="center" width="0%"><a href="https://sourceforge.net/u/avenger_teambg/profile"><img src="https://secure.gravatar.com/avatar/74e13572d30b1190887d781680b0c955?s=64&rating=PG&d=robohash" width="64" height="64" alt=""><br /><sub><b>Laszlo Toth</b></sub></a><br /><span title="bug">
@@ -315,7 +315,7 @@ This page is work in progress. Many people and details are still missing. Please
  <td align="center" width="0%"><a href="https://sourceforge.net/u/b0uld3r/profile"><img src="https://secure.gravatar.com/avatar/45045e90c7cfa8360119bf6fef369b16?s=64&rating=PG&d=retro" width="64" height="64" alt=""><br /><sub><b>b0uld3r</b></sub></a><br /><span title="bug">
 🐛</span> <span title="ideas">
 🤔</span> </td>
- <td align="center" width="0%"><a href="https://sourceforge.net/u/ba0645/profile"><img src="https://secure.gravatar.com/avatar/a3d5750fabf628f6b2fb662bb9f81873?s=64&rating=PG&d=https://stendhalgame.org/images/profile/ba0645.png" width="64" height="64" alt=""><br /><sub><b>ba0645</b></sub></a><br /><span title="bug">
+ <td align="center" width="0%"><a href="https://sourceforge.net/u/ba0645/profile"><img src="https://secure.gravatar.com/avatar/a3d5750fabf628f6b2fb662bb9f81873?s=64&rating=PG&d=http://game.citypay.org/images/profile/ba0645.png" width="64" height="64" alt=""><br /><sub><b>ba0645</b></sub></a><br /><span title="bug">
 🐛</span> </td>
  <td align="center" width="0%"><a href="https://sourceforge.net/u/balancer3/profile"><img src="https://secure.gravatar.com/avatar/ad5b7b01b31bf3ba4ea31085083d5abf?s=64&rating=PG&d=monsterid" width="64" height="64" alt=""><br /><sub><b>Ford Carry</b></sub></a><br /><span title="ideas">
 🤔</span> </td>
@@ -326,25 +326,25 @@ This page is work in progress. Many people and details are still missing. Please
 🤔</span> </td>
  <td align="center" width="0%"><a href="https://sourceforge.net/u/bbairan/profile"><img src="https://secure.gravatar.com/avatar/16a8fb80c5376e7dadf8d0bee8eca32e?s=64&rating=PG&d=retro" width="64" height="64" alt=""><br /><sub><b>Commoner</b></sub></a><br /><span title="ideas">
 🤔</span> </td>
- <td align="center" width="0%"><a href="https://sourceforge.net/u/bcmpinc/profile"><img src="https://secure.gravatar.com/avatar/b083afcab9f65a5414db36517c4e7b3f?s=64&rating=PG&d=https://stendhalgame.org/images/profile/bcmpinc.png" width="64" height="64" alt=""><br /><sub><b>bcmpinc</b></sub></a><br /><span title="bug">
+ <td align="center" width="0%"><a href="https://sourceforge.net/u/bcmpinc/profile"><img src="https://secure.gravatar.com/avatar/b083afcab9f65a5414db36517c4e7b3f?s=64&rating=PG&d=http://game.citypay.org/images/profile/bcmpinc.png" width="64" height="64" alt=""><br /><sub><b>bcmpinc</b></sub></a><br /><span title="bug">
 🐛</span> <span title="ideas">
 🤔</span> </td>
- <td align="center" width="0%"><a href="https://sourceforge.net/u/bean56/profile"><img src="https://secure.gravatar.com/avatar/89fdbe8c19fe5201d95a4159d50b7fc9?s=64&rating=PG&d=https://stendhalgame.org/images/profile/bean56.png" width="64" height="64" alt=""><br /><sub><b>bean56</b></sub></a><br /><span title="bug">
+ <td align="center" width="0%"><a href="https://sourceforge.net/u/bean56/profile"><img src="https://secure.gravatar.com/avatar/89fdbe8c19fe5201d95a4159d50b7fc9?s=64&rating=PG&d=http://game.citypay.org/images/profile/bean56.png" width="64" height="64" alt=""><br /><sub><b>bean56</b></sub></a><br /><span title="bug">
 🐛</span> <span title="ideas">
 🤔</span> </td>
  <td align="center" width="0%"><a href="https://sourceforge.net/u/beny_m/profile"><img src="https://secure.gravatar.com/avatar/0894d4e41bff047415d5676a8edb8d5c?s=64&rating=PG&d=robohash" width="64" height="64" alt=""><br /><sub><b>Beny_m</b></sub></a><br /><span title="bugs">
 null</span> </td>
- <td align="center" width="0%"><a href="https://sourceforge.net/u/borgomatic/profile"><img src="https://secure.gravatar.com/avatar/82c1296b53bc5cba173f9b7172fa2951?s=64&rating=PG&d=https://stendhalgame.org/images/profile/borgomatic.png" width="64" height="64" alt=""><br /><sub><b>Borgomatic</b></sub></a><br /><span title="bug">
+ <td align="center" width="0%"><a href="https://sourceforge.net/u/borgomatic/profile"><img src="https://secure.gravatar.com/avatar/82c1296b53bc5cba173f9b7172fa2951?s=64&rating=PG&d=http://game.citypay.org/images/profile/borgomatic.png" width="64" height="64" alt=""><br /><sub><b>Borgomatic</b></sub></a><br /><span title="bug">
 🐛</span> <span title="ideas">
 🤔</span> </td>
 </tr>
 <tr>
- <td align="center" width="0%"><a href="https://sourceforge.net/u/broli/profile"><img src="https://secure.gravatar.com/avatar/36950a8aa792a5004a3223112d101e10?s=64&rating=PG&d=https://stendhalgame.org/images/profile/broli.png" width="64" height="64" alt=""><br /><sub><b>Carlos Ferrabone</b></sub></a><br /><span title="bug">
+ <td align="center" width="0%"><a href="https://sourceforge.net/u/broli/profile"><img src="https://secure.gravatar.com/avatar/36950a8aa792a5004a3223112d101e10?s=64&rating=PG&d=http://game.citypay.org/images/profile/broli.png" width="64" height="64" alt=""><br /><sub><b>Carlos Ferrabone</b></sub></a><br /><span title="bug">
 🐛</span> <span title="ideas">
 🤔</span> </td>
  <td align="center" width="0%"><a href="https://sourceforge.net/u/c-korn/profile"><img src="https://secure.gravatar.com/avatar/89f73da1d82f08bfd00fe5a232a7b156?s=64&rating=PG&d=wavatar" width="64" height="64" alt=""><br /><sub><b>Christoph Korn</b></sub></a><br /><span title="code">
 💻</span> </td>
- <td align="center" width="0%"><a href="https://sourceforge.net/u/carida1/profile"><img src="https://secure.gravatar.com/avatar/d97c60d5b36e0bd9f0552d49459eba5a?s=64&rating=PG&d=https://stendhalgame.org/images/profile/carida.png" width="64" height="64" alt=""><br /><sub><b>carida</b></sub></a><br /><span title="bug">
+ <td align="center" width="0%"><a href="https://sourceforge.net/u/carida1/profile"><img src="https://secure.gravatar.com/avatar/d97c60d5b36e0bd9f0552d49459eba5a?s=64&rating=PG&d=http://game.citypay.org/images/profile/carida.png" width="64" height="64" alt=""><br /><sub><b>carida</b></sub></a><br /><span title="bug">
 🐛</span> </td>
  <td align="center" width="0%"><a href="https://sourceforge.net/u/ci-dev/profile"><img src="https://secure.gravatar.com/avatar/5926a49f988c6097eb5ff4a409185bdd?s=64&rating=PG&d=monsterid" width="64" height="64" alt=""><br /><sub><b>Alexander Schuch</b></sub></a><br /><span title="code">
 💻</span> <span title="bug">
@@ -353,20 +353,20 @@ null</span> </td>
  <td align="center" width="0%"><a href="https://sourceforge.net/u/closet/profile"><img src="https://secure.gravatar.com/avatar/e97d1a8f64211ae10c8b8d7056251024?s=64&rating=PG&d=monsterid" width="64" height="64" alt=""><br /><sub><b>Trevor Savage</b></sub></a><br /><span title="code">
 💻</span> <span title="bug">
 🐛</span> </td>
- <td align="center" width="0%"><a href="https://sourceforge.net/u/codecannon/profile"><img src="https://secure.gravatar.com/avatar/7b7d14029848da8fdd090ddb1f3151a0?s=64&rating=PG&d=https://stendhalgame.org/images/profile/codecannon.png" width="64" height="64" alt=""><br /><sub><b>CodeCannon</b></sub></a><br /><span title="code">
+ <td align="center" width="0%"><a href="https://sourceforge.net/u/codecannon/profile"><img src="https://secure.gravatar.com/avatar/7b7d14029848da8fdd090ddb1f3151a0?s=64&rating=PG&d=http://game.citypay.org/images/profile/codecannon.png" width="64" height="64" alt=""><br /><sub><b>CodeCannon</b></sub></a><br /><span title="code">
 💻</span> </td>
 </tr>
 <tr>
  <td align="center" width="0%"><a href="https://sourceforge.net/u/coffee-coder/profile"><img src="https://secure.gravatar.com/avatar/531c49985986331cc30b30dd64a4a0de?s=64&rating=PG&d=monsterid" width="64" height="64" alt=""><br /><sub><b>coffee-coder</b></sub></a><br /><span title="bug">
 🐛</span> </td>
- <td align="center" width="0%"><a href="https://sourceforge.net/u/czimmy/profile"><img src="https://secure.gravatar.com/avatar/62fc761a7f453b8a22c1a4c283cf3ea3?s=64&rating=PG&d=https://stendhalgame.org/images/profile/Czimmy.png" width="64" height="64" alt=""><br /><sub><b>Czimmy</b></sub></a><br /><span title="ideas">
+ <td align="center" width="0%"><a href="https://sourceforge.net/u/czimmy/profile"><img src="https://secure.gravatar.com/avatar/62fc761a7f453b8a22c1a4c283cf3ea3?s=64&rating=PG&d=http://game.citypay.org/images/profile/Czimmy.png" width="64" height="64" alt=""><br /><sub><b>Czimmy</b></sub></a><br /><span title="ideas">
 🤔</span> </td>
  <td align="center" width="0%"><a href="https://sourceforge.net/u/daniel-s/profile"><img src="https://secure.gravatar.com/avatar/c0da27a7f9eb4f958124a3d54a9c31cb?s=64&rating=PG&d=retro" width="64" height="64" alt=""><br /><sub><b>Daniel-s</b></sub></a><br /><span title="code">
 💻</span> </td>
  <td align="center" width="0%"><a href="https://sourceforge.net/u/deathdiller/profile"><img src="https://secure.gravatar.com/avatar/fc85158a5e52cc995a906546d16db528?s=64&rating=PG&d=robohash" width="64" height="64" alt=""><br /><sub><b>Darius Private</b></sub></a><br /><span title="bug">
 🐛</span> <span title="ideas">
 🤔</span> </td>
- <td align="center" width="0%"><a href="https://sourceforge.net/u/decampos/profile"><img src="https://secure.gravatar.com/avatar/3558a628b6f994cf87c2a14e8ebc1697?s=64&rating=PG&d=https://stendhalgame.org/images/profile/decampos.png" width="64" height="64" alt=""><br /><sub><b>Alex Badea</b></sub></a><br /><span title="bug">
+ <td align="center" width="0%"><a href="https://sourceforge.net/u/decampos/profile"><img src="https://secure.gravatar.com/avatar/3558a628b6f994cf87c2a14e8ebc1697?s=64&rating=PG&d=http://game.citypay.org/images/profile/decampos.png" width="64" height="64" alt=""><br /><sub><b>Alex Badea</b></sub></a><br /><span title="bug">
 🐛</span> <span title="ideas">
 🤔</span> </td>
  <td align="center" width="0%"><a href="https://sourceforge.net/u/deposoze/profile"><img src="https://secure.gravatar.com/avatar/9b1c41e758500e0290497c7464884ec2?s=64&rating=PG&d=robohash" width="64" height="64" alt=""><br /><sub><b>depo</b></sub></a><br /><span title="ideas">
@@ -387,7 +387,7 @@ null</span> </td>
 💻</span> <span title="bug">
 🐛</span> <span title="ideas">
 🤔</span> </td>
- <td align="center" width="0%"><a href="https://sourceforge.net/u/edi18028/profile"><img src="https://secure.gravatar.com/avatar/9e7a32520e4dca32b1d9d055de81c343?s=64&rating=PG&d=https://stendhalgame.org/images/profile/edi18028.png" width="64" height="64" alt=""><br /><sub><b>edi18028</b></sub></a><br /><span title="bug">
+ <td align="center" width="0%"><a href="https://sourceforge.net/u/edi18028/profile"><img src="https://secure.gravatar.com/avatar/9e7a32520e4dca32b1d9d055de81c343?s=64&rating=PG&d=http://game.citypay.org/images/profile/edi18028.png" width="64" height="64" alt=""><br /><sub><b>edi18028</b></sub></a><br /><span title="bug">
 🐛</span> <span title="ideas">
 🤔</span> </td>
 </tr>
@@ -397,11 +397,11 @@ null</span> </td>
  <td align="center" width="0%"><a href="https://sourceforge.net/u/eliterabbit/profile"><img src="https://secure.gravatar.com/avatar/804c74fcaca7a98ff23a9db8d192eb93?s=64&rating=PG&d=retro" width="64" height="64" alt=""><br /><sub><b>Jack_Rabbit</b></sub></a><br /><span title="bug">
 🐛</span> <span title="ideas">
 🤔</span> </td>
- <td align="center" width="0%"><a href="https://sourceforge.net/u/ellocogato/profile"><img src="https://secure.gravatar.com/avatar/d21d2d843e2c5e2cbeaa2c631b5057cb?s=64&rating=PG&d=https://stendhalgame.org/images/profile/ellocogato.png" width="64" height="64" alt=""><br /><sub><b>ElLocoGato</b></sub></a><br /><span title="ideas">
+ <td align="center" width="0%"><a href="https://sourceforge.net/u/ellocogato/profile"><img src="https://secure.gravatar.com/avatar/d21d2d843e2c5e2cbeaa2c631b5057cb?s=64&rating=PG&d=http://game.citypay.org/images/profile/ellocogato.png" width="64" height="64" alt=""><br /><sub><b>ElLocoGato</b></sub></a><br /><span title="ideas">
 🤔</span> </td>
- <td align="center" width="0%"><a href="https://sourceforge.net/u/emoarg/profile"><img src="https://secure.gravatar.com/avatar/a5bed0957604849bcf9c5d6e1f869621?s=64&rating=PG&d=https://stendhalgame.org/images/profile/emoarg.png" width="64" height="64" alt=""><br /><sub><b>emoarg</b></sub></a><br /><span title="bug">
+ <td align="center" width="0%"><a href="https://sourceforge.net/u/emoarg/profile"><img src="https://secure.gravatar.com/avatar/a5bed0957604849bcf9c5d6e1f869621?s=64&rating=PG&d=http://game.citypay.org/images/profile/emoarg.png" width="64" height="64" alt=""><br /><sub><b>emoarg</b></sub></a><br /><span title="bug">
 🐛</span> </td>
- <td align="center" width="0%"><a href="https://sourceforge.net/u/erdnuggel/profile"><img src="https://secure.gravatar.com/avatar/52f5b5639238741621251264aaf073eb?s=64&rating=PG&d=https://stendhalgame.org/images/profile/erdnuggel.png" width="64" height="64" alt=""><br /><sub><b>erdnuggel</b></sub></a><br /><span title="bug">
+ <td align="center" width="0%"><a href="https://sourceforge.net/u/erdnuggel/profile"><img src="https://secure.gravatar.com/avatar/52f5b5639238741621251264aaf073eb?s=64&rating=PG&d=http://game.citypay.org/images/profile/erdnuggel.png" width="64" height="64" alt=""><br /><sub><b>erdnuggel</b></sub></a><br /><span title="bug">
 🐛</span> <span title="ideas">
 🤔</span> </td>
  <td align="center" width="0%"><a href="https://sourceforge.net/u/eugen11/profile"><img src="https://secure.gravatar.com/avatar/4d3968a331f7bd5579217790488b8340?s=64&rating=PG&d=robohash" width="64" height="64" alt=""><br /><sub><b>Eugen Treise</b></sub></a><br /><span title="bug">
@@ -411,48 +411,48 @@ null</span> </td>
 <tr>
  <td align="center" width="0%"><a href="https://sourceforge.net/u/freexrf/profile"><img src="https://secure.gravatar.com/avatar/a10afc44b3f93fea0ce8a1d54f6295c4?s=64&rating=PG&d=retro" width="64" height="64" alt=""><br /><sub><b>free</b></sub></a><br /><span title="bug">
 🐛</span> </td>
- <td align="center" width="0%"><a href="https://sourceforge.net/u/gambitricky/profile"><img src="https://secure.gravatar.com/avatar/5ca292641664144c4a86c1f191f1427e?s=64&rating=PG&d=https://stendhalgame.org/images/profile/gambitricky.png" width="64" height="64" alt=""><br /><sub><b>Enriko Riba</b></sub></a><br /><span title="bug">
+ <td align="center" width="0%"><a href="https://sourceforge.net/u/gambitricky/profile"><img src="https://secure.gravatar.com/avatar/5ca292641664144c4a86c1f191f1427e?s=64&rating=PG&d=http://game.citypay.org/images/profile/gambitricky.png" width="64" height="64" alt=""><br /><sub><b>Enriko Riba</b></sub></a><br /><span title="bug">
 🐛</span> <span title="ideas">
 🤔</span> </td>
  <td align="center" width="0%"><a href="https://sourceforge.net/u/general-xtarget/profile"><img src="https://secure.gravatar.com/avatar/cc9500d857b0f35bdbd6771cac649935?s=64&rating=PG&d=monsterid" width="64" height="64" alt=""><br /><sub><b>General-xTarget</b></sub></a><br /><span title="code">
 💻</span> <span title="bug">
 🐛</span> </td>
- <td align="center" width="0%"><a href="https://sourceforge.net/u/ginaria/profile"><img src="https://secure.gravatar.com/avatar/27bf72e1dc9f0e98cfb6261c831ea4e9?s=64&rating=PG&d=https://stendhalgame.org/images/profile/ginaria.png" width="64" height="64" alt=""><br /><sub><b>Ginaria</b></sub></a><br /><span title="bug">
+ <td align="center" width="0%"><a href="https://sourceforge.net/u/ginaria/profile"><img src="https://secure.gravatar.com/avatar/27bf72e1dc9f0e98cfb6261c831ea4e9?s=64&rating=PG&d=http://game.citypay.org/images/profile/ginaria.png" width="64" height="64" alt=""><br /><sub><b>Ginaria</b></sub></a><br /><span title="bug">
 🐛</span> </td>
- <td align="center" width="0%"><a href="https://sourceforge.net/u/glenn_m/profile"><img src="https://secure.gravatar.com/avatar/2ed61ef36c8f7022b0a773675b9ac97d?s=64&rating=PG&d=https://stendhalgame.org/images/profile/glenn.png" width="64" height="64" alt=""><br /><sub><b>Glenn M</b></sub></a><br /><span title="graphics">
+ <td align="center" width="0%"><a href="https://sourceforge.net/u/glenn_m/profile"><img src="https://secure.gravatar.com/avatar/2ed61ef36c8f7022b0a773675b9ac97d?s=64&rating=PG&d=http://game.citypay.org/images/profile/glenn.png" width="64" height="64" alt=""><br /><sub><b>Glenn M</b></sub></a><br /><span title="graphics">
 🎨</span> <span title="ideas">
 🤔</span> </td>
  <td align="center" width="0%"><a href="https://sourceforge.net/u/grayfalcon/profile"><img src="https://secure.gravatar.com/avatar/d9d4b216a1c0a1055525006fc5c69712?s=64&rating=PG&d=monsterid" width="64" height="64" alt=""><br /><sub><b>Wojtek Dabrowski</b></sub></a><br /><span title="bug">
 🐛</span> </td>
 </tr>
 <tr>
- <td align="center" width="0%"><a href="https://sourceforge.net/u/greendol/profile"><img src="https://stendhalgame.org/images/profile/greendol.png" width="64" height="64" alt=""><br /><sub><b>greendol</b></sub></a><br /><span title="ideas">
+ <td align="center" width="0%"><a href="https://sourceforge.net/u/greendol/profile"><img src="http://game.citypay.org/images/profile/greendol.png" width="64" height="64" alt=""><br /><sub><b>greendol</b></sub></a><br /><span title="ideas">
 🤔</span> </td>
- <td align="center" width="0%"><a href="https://sourceforge.net/u/greyknight3/profile"><img src="https://secure.gravatar.com/avatar/50ca805b668af06ae1edcb92019edd12?s=64&rating=PG&d=https://stendhalgame.org/images/profile/greyknight.png" width="64" height="64" alt=""><br /><sub><b>GreyKnight</b></sub></a><br /><span title="code">
+ <td align="center" width="0%"><a href="https://sourceforge.net/u/greyknight3/profile"><img src="https://secure.gravatar.com/avatar/50ca805b668af06ae1edcb92019edd12?s=64&rating=PG&d=http://game.citypay.org/images/profile/greyknight.png" width="64" height="64" alt=""><br /><sub><b>GreyKnight</b></sub></a><br /><span title="code">
 💻</span> <span title="bug">
 🐛</span> </td>
- <td align="center" width="0%"><a href="https://sourceforge.net/u/grobimonster/profile"><img src="https://secure.gravatar.com/avatar/bc195fecbdadd04f08dfd4d8c70a411b?s=64&rating=PG&d=https://stendhalgame.org/images/profile/grobimonster.png" width="64" height="64" alt=""><br /><sub><b>Frank</b></sub></a><br /><span title="ideas">
+ <td align="center" width="0%"><a href="https://sourceforge.net/u/grobimonster/profile"><img src="https://secure.gravatar.com/avatar/bc195fecbdadd04f08dfd4d8c70a411b?s=64&rating=PG&d=http://game.citypay.org/images/profile/grobimonster.png" width="64" height="64" alt=""><br /><sub><b>Frank</b></sub></a><br /><span title="ideas">
 🤔</span> </td>
  <td align="center" width="0%"><a href="https://sourceforge.net/u/h3xx/profile"><img src="https://secure.gravatar.com/avatar/f7fa433b09ba8fe765cc92eb747d2b25?s=64&rating=PG&d=wavatar" width="64" height="64" alt=""><br /><sub><b>h3xx</b></sub></a><br /><span title="ideas">
 🤔</span> </td>
  <td align="center" width="0%"><a href="https://sourceforge.net/u/h4mt4r0/profile"><img src="https://secure.gravatar.com/avatar/c0b05223d775298f16fcb4bc08b16c56?s=64&rating=PG&d=robohash" width="64" height="64" alt=""><br /><sub><b>Groundhug McHampster</b></sub></a><br /><span title="bug">
 🐛</span> <span title="ideas">
 🤔</span> </td>
- <td align="center" width="0%"><a href="https://sourceforge.net/u/hcsok/profile"><img src="https://secure.gravatar.com/avatar/4d6a460af5c532e175514677e74ad20c?s=64&rating=PG&d=https://stendhalgame.org/images/profile/hcsok.png" width="64" height="64" alt=""><br /><sub><b>kosch</b></sub></a><br /><span title="bug">
+ <td align="center" width="0%"><a href="https://sourceforge.net/u/hcsok/profile"><img src="https://secure.gravatar.com/avatar/4d6a460af5c532e175514677e74ad20c?s=64&rating=PG&d=http://game.citypay.org/images/profile/hcsok.png" width="64" height="64" alt=""><br /><sub><b>kosch</b></sub></a><br /><span title="bug">
 🐛</span> <span title="ideas">
 🤔</span> </td>
 </tr>
 <tr>
- <td align="center" width="0%"><a href="https://sourceforge.net/u/helraiser31/profile"><img src="https://secure.gravatar.com/avatar/08529a03b75a8629013a4984bfc8f3c5?s=64&rating=PG&d=https://stendhalgame.org/images/profile/helraiser31.png" width="64" height="64" alt=""><br /><sub><b>helraiser31</b></sub></a><br /><span title="bug">
+ <td align="center" width="0%"><a href="https://sourceforge.net/u/helraiser31/profile"><img src="https://secure.gravatar.com/avatar/08529a03b75a8629013a4984bfc8f3c5?s=64&rating=PG&d=http://game.citypay.org/images/profile/helraiser31.png" width="64" height="64" alt=""><br /><sub><b>helraiser31</b></sub></a><br /><span title="bug">
 🐛</span> </td>
  <td align="center" width="0%"><a href="https://sourceforge.net/u/hemala/profile"><img src="https://secure.gravatar.com/avatar/6c93506b5d4b49e10f6c2b9977b4c36a?s=64&rating=PG&d=wavatar" width="64" height="64" alt=""><br /><sub><b>Masked Legend</b></sub></a><br /><span title="graphics">
 🎨</span> <span title="ideas">
 🤔</span> </td>
  <td align="center" width="0%"><a href="https://sourceforge.net/u/holgero/profile"><img src="https://secure.gravatar.com/avatar/2953102ee731cceb914ebb68dea2898f?s=64&rating=PG&d=retro" width="64" height="64" alt=""><br /><sub><b>Holger Oehm</b></sub></a><br /><span title="code">
 💻</span> </td>
- <td align="center" width="0%"><a href="https://sourceforge.net/u/iigambitii/profile"><img src="https://secure.gravatar.com/avatar/0cc2e29dd98c10faa85f8365693994ce?s=64&rating=PG&d=https://stendhalgame.org/images/profile/ladygambit.png" width="64" height="64" alt=""><br /><sub><b>gambit</b></sub></a><br /><span title="bug">
+ <td align="center" width="0%"><a href="https://sourceforge.net/u/iigambitii/profile"><img src="https://secure.gravatar.com/avatar/0cc2e29dd98c10faa85f8365693994ce?s=64&rating=PG&d=http://game.citypay.org/images/profile/ladygambit.png" width="64" height="64" alt=""><br /><sub><b>gambit</b></sub></a><br /><span title="bug">
 🐛</span> </td>
- <td align="center" width="0%"><a href="https://sourceforge.net/u/ischbing/profile"><img src="https://secure.gravatar.com/avatar/7e61f5f5a08f711fd7a425bac2e64dc9?s=64&rating=PG&d=https://stendhalgame.org/images/profile/ischbing.png" width="64" height="64" alt=""><br /><sub><b>IschBing</b></sub></a><br /><span title="bug">
+ <td align="center" width="0%"><a href="https://sourceforge.net/u/ischbing/profile"><img src="https://secure.gravatar.com/avatar/7e61f5f5a08f711fd7a425bac2e64dc9?s=64&rating=PG&d=http://game.citypay.org/images/profile/ischbing.png" width="64" height="64" alt=""><br /><sub><b>IschBing</b></sub></a><br /><span title="bug">
 🐛</span> <span title="ideas">
 🤔</span> </td>
  <td align="center" width="0%"><a href="https://sourceforge.net/u/jamesdatt/profile"><img src="https://secure.gravatar.com/avatar/cf179275796ede0149b5cf59a3439773?s=64&rating=PG&d=wavatar" width="64" height="64" alt=""><br /><sub><b>James.Datt</b></sub></a><br /><span title="code">
@@ -460,7 +460,7 @@ null</span> </td>
 🐛</span> </td>
 </tr>
 <tr>
- <td align="center" width="0%"><a href="https://sourceforge.net/u/javydreamercsw/profile"><img src="https://secure.gravatar.com/avatar/0d61e8dd1d552643c997a61442ac197b?s=64&rating=PG&d=https://stendhalgame.org/images/profile/javydreamercsw.png" width="64" height="64" alt=""><br /><sub><b>Javier Ortiz</b></sub></a><br /><span title="code">
+ <td align="center" width="0%"><a href="https://sourceforge.net/u/javydreamercsw/profile"><img src="https://secure.gravatar.com/avatar/0d61e8dd1d552643c997a61442ac197b?s=64&rating=PG&d=http://game.citypay.org/images/profile/javydreamercsw.png" width="64" height="64" alt=""><br /><sub><b>Javier Ortiz</b></sub></a><br /><span title="code">
 💻</span> <span title="ideas">
 🤔</span> </td>
  <td align="center" width="0%"><a href="https://sourceforge.net/u/jim_y/profile"><img src="https://secure.gravatar.com/avatar/95b9bc034e4c86f3c16f5e557484fbb8?s=64&rating=PG&d=wavatar" width="64" height="64" alt=""><br /><sub><b>Jim</b></sub></a><br /><span title="code">
@@ -469,21 +469,21 @@ null</span> </td>
 🐛</span> </td>
  <td align="center" width="0%"><a href="https://sourceforge.net/u/juann/profile"><img src="https://secure.gravatar.com/avatar/f04b4624cb0839b2c16e3b88c6f8e0d6?s=64&rating=PG&d=robohash" width="64" height="64" alt=""><br /><sub><b>Juanma</b></sub></a><br /><span title="bug">
 🐛</span> </td>
- <td align="center" width="0%"><a href="https://sourceforge.net/u/kaaie/profile"><img src="https://secure.gravatar.com/avatar/cdd9f06130ac2d2c15a0fe7e5002a17c?s=64&rating=PG&d=https://stendhalgame.org/images/profile/kaaie.png" width="64" height="64" alt=""><br /><sub><b>Nathan</b></sub></a><br /><span title="ideas">
+ <td align="center" width="0%"><a href="https://sourceforge.net/u/kaaie/profile"><img src="https://secure.gravatar.com/avatar/cdd9f06130ac2d2c15a0fe7e5002a17c?s=64&rating=PG&d=http://game.citypay.org/images/profile/kaaie.png" width="64" height="64" alt=""><br /><sub><b>Nathan</b></sub></a><br /><span title="ideas">
 🤔</span> </td>
  <td align="center" width="0%"><a href="https://sourceforge.net/u/karci/profile"><img src="https://secure.gravatar.com/avatar/7413d6b9b412ff37332cb7d234aeaa8b?s=64&rating=PG&d=retro" width="64" height="64" alt=""><br /><sub><b>Karol</b></sub></a><br /><span title="bug">
 🐛</span> </td>
 </tr>
 <tr>
- <td align="center" width="0%"><a href="https://sourceforge.net/u/kebal/profile"><img src="https://secure.gravatar.com/avatar/2e190ea7ff4e16cccf52cf210025abe5?s=64&rating=PG&d=https://stendhalgame.org/images/profile/kebal.png" width="64" height="64" alt=""><br /><sub><b>Alex Nikitin</b></sub></a><br /><span title="code">
+ <td align="center" width="0%"><a href="https://sourceforge.net/u/kebal/profile"><img src="https://secure.gravatar.com/avatar/2e190ea7ff4e16cccf52cf210025abe5?s=64&rating=PG&d=http://game.citypay.org/images/profile/kebal.png" width="64" height="64" alt=""><br /><sub><b>Alex Nikitin</b></sub></a><br /><span title="code">
 💻</span> </td>
- <td align="center" width="0%"><a href="https://sourceforge.net/u/kidlat_admin/profile"><img src="https://secure.gravatar.com/avatar/f90a78eee525579d463e052716361bf0?s=64&rating=PG&d=https://stendhalgame.org/images/profile/kidlat.png" width="64" height="64" alt=""><br /><sub><b>Arthur Bulala</b></sub></a><br /><span title="bug">
+ <td align="center" width="0%"><a href="https://sourceforge.net/u/kidlat_admin/profile"><img src="https://secure.gravatar.com/avatar/f90a78eee525579d463e052716361bf0?s=64&rating=PG&d=http://game.citypay.org/images/profile/kidlat.png" width="64" height="64" alt=""><br /><sub><b>Arthur Bulala</b></sub></a><br /><span title="bug">
 🐛</span> <span title="ideas">
 🤔</span> </td>
- <td align="center" width="0%"><a href="https://sourceforge.net/u/koschi/profile"><img src="https://secure.gravatar.com/avatar/a85a67e6cf704619eacbc14473eaa418?s=64&rating=PG&d=https://stendhalgame.org/images/profile/kosch.png" width="64" height="64" alt=""><br /><sub><b>KoSch</b></sub></a><br /><span title="bug">
+ <td align="center" width="0%"><a href="https://sourceforge.net/u/koschi/profile"><img src="https://secure.gravatar.com/avatar/a85a67e6cf704619eacbc14473eaa418?s=64&rating=PG&d=http://game.citypay.org/images/profile/kosch.png" width="64" height="64" alt=""><br /><sub><b>KoSch</b></sub></a><br /><span title="bug">
 🐛</span> <span title="ideas">
 🤔</span> </td>
- <td align="center" width="0%"><a href="https://sourceforge.net/u/krupi/profile"><img src="https://secure.gravatar.com/avatar/e8b4cb13395d4f9b1f565ede08dfb916?s=64&rating=PG&d=https://stendhalgame.org/images/profile/krupi.png" width="64" height="64" alt=""><br /><sub><b>franky</b></sub></a><br /><span title="bug">
+ <td align="center" width="0%"><a href="https://sourceforge.net/u/krupi/profile"><img src="https://secure.gravatar.com/avatar/e8b4cb13395d4f9b1f565ede08dfb916?s=64&rating=PG&d=http://game.citypay.org/images/profile/krupi.png" width="64" height="64" alt=""><br /><sub><b>franky</b></sub></a><br /><span title="bug">
 🐛</span> <span title="ideas">
 🤔</span> </td>
  <td align="center" width="0%"><a href="https://sourceforge.net/u/kundarsa/profile"><img src="https://secure.gravatar.com/avatar/da78b039746dd6c2d2ca7e583e3c1e0d?s=64&rating=PG&d=wavatar" width="64" height="64" alt=""><br /><sub><b>kundarsa</b></sub></a><br /><span title="bug">
@@ -492,15 +492,15 @@ null</span> </td>
 🤔</span> </td>
 </tr>
 <tr>
- <td align="center" width="0%"><a href="https://sourceforge.net/u/ladygambit/profile"><img src="https://secure.gravatar.com/avatar/0cc2e29dd98c10faa85f8365693994ce?s=64&rating=PG&d=https://stendhalgame.org/images/profile/ladygambit.png" width="64" height="64" alt=""><br /><sub><b>ladygambit</b></sub></a><br /><span title="bug">
+ <td align="center" width="0%"><a href="https://sourceforge.net/u/ladygambit/profile"><img src="https://secure.gravatar.com/avatar/0cc2e29dd98c10faa85f8365693994ce?s=64&rating=PG&d=http://game.citypay.org/images/profile/ladygambit.png" width="64" height="64" alt=""><br /><sub><b>ladygambit</b></sub></a><br /><span title="bug">
 🐛</span> <span title="ideas">
 🤔</span> </td>
  <td align="center" width="0%"><a href="https://sourceforge.net/u/lint35/profile"><img src="https://secure.gravatar.com/avatar/05d3a6562f6fffd139c24fdc8cf264ed?s=64&rating=PG&d=monsterid" width="64" height="64" alt=""><br /><sub><b>cody giesbrecht</b></sub></a><br /><span title="ideas">
 🤔</span> </td>
- <td align="center" width="0%"><a href="https://sourceforge.net/u/love_puppet89/profile"><img src="https://secure.gravatar.com/avatar/a7dcb0311ca1e45dcc2ed2e6078a745a?s=64&rating=PG&d=https://stendhalgame.org/images/profile/love_puppet.png" width="64" height="64" alt=""><br /><sub><b>Will Scott</b></sub></a><br /><span title="bug">
+ <td align="center" width="0%"><a href="https://sourceforge.net/u/love_puppet89/profile"><img src="https://secure.gravatar.com/avatar/a7dcb0311ca1e45dcc2ed2e6078a745a?s=64&rating=PG&d=http://game.citypay.org/images/profile/love_puppet.png" width="64" height="64" alt=""><br /><sub><b>Will Scott</b></sub></a><br /><span title="bug">
 🐛</span> <span title="ideas">
 🤔</span> </td>
- <td align="center" width="0%"><a href="https://sourceforge.net/u/lunga666/profile"><img src="https://secure.gravatar.com/avatar/3d4c7fcea5914709c553184c6c96d349?s=64&rating=PG&d=https://stendhalgame.org/images/profile/lunga.png" width="64" height="64" alt=""><br /><sub><b>lunga</b></sub></a><br /><span title="bug">
+ <td align="center" width="0%"><a href="https://sourceforge.net/u/lunga666/profile"><img src="https://secure.gravatar.com/avatar/3d4c7fcea5914709c553184c6c96d349?s=64&rating=PG&d=http://game.citypay.org/images/profile/lunga.png" width="64" height="64" alt=""><br /><sub><b>lunga</b></sub></a><br /><span title="bug">
 🐛</span> </td>
  <td align="center" width="0%"><a href="https://sourceforge.net/u/magicandmight/profile"><img src="https://secure.gravatar.com/avatar/48245a92cad74e1e4cebfc66e99f874e?s=64&rating=PG&d=monsterid" width="64" height="64" alt=""><br /><sub><b>Magicandmight</b></sub></a><br /><span title="ideas">
 🤔</span> </td>
@@ -508,13 +508,13 @@ null</span> </td>
 🤔</span> </td>
 </tr>
 <tr>
- <td align="center" width="0%"><a href="https://sourceforge.net/u/manuellg81/profile"><img src="https://secure.gravatar.com/avatar/9b3b13b068df2175c743a645a71fbdb6?s=64&rating=PG&d=https://stendhalgame.org/images/profile/manuellg81.png" width="64" height="64" alt=""><br /><sub><b>MLG</b></sub></a><br /><span title="ideas">
+ <td align="center" width="0%"><a href="https://sourceforge.net/u/manuellg81/profile"><img src="https://secure.gravatar.com/avatar/9b3b13b068df2175c743a645a71fbdb6?s=64&rating=PG&d=http://game.citypay.org/images/profile/manuellg81.png" width="64" height="64" alt=""><br /><sub><b>MLG</b></sub></a><br /><span title="ideas">
 🤔</span> </td>
- <td align="center" width="0%"><a href="https://sourceforge.net/u/marcosn/profile"><img src="https://secure.gravatar.com/avatar/e18cca73281413df90b0b1b49796db51?s=64&rating=PG&d=https://stendhalgame.org/images/profile/marcosn.png" width="64" height="64" alt=""><br /><sub><b>marcosn</b></sub></a><br /><span title="ideas">
+ <td align="center" width="0%"><a href="https://sourceforge.net/u/marcosn/profile"><img src="https://secure.gravatar.com/avatar/e18cca73281413df90b0b1b49796db51?s=64&rating=PG&d=http://game.citypay.org/images/profile/marcosn.png" width="64" height="64" alt=""><br /><sub><b>marcosn</b></sub></a><br /><span title="ideas">
 🤔</span> </td>
  <td align="center" width="0%"><a href="https://sourceforge.net/u/mascht/profile"><img src="https://secure.gravatar.com/avatar/f3dd579a9e33256fb97d53cebb9bbc80?s=64&rating=PG&d=wavatar" width="64" height="64" alt=""><br /><sub><b>Mascht</b></sub></a><br /><span title="ideas">
 🤔</span> </td>
- <td align="center" width="0%"><a href="https://sourceforge.net/u/megajack64/profile"><img src="https://secure.gravatar.com/avatar/afbcc323f06b5570f799a447e4d88257?s=64&rating=PG&d=https://stendhalgame.org/images/profile/megajack64.png" width="64" height="64" alt=""><br /><sub><b>Jorge</b></sub></a><br /><span title="ideas">
+ <td align="center" width="0%"><a href="https://sourceforge.net/u/megajack64/profile"><img src="https://secure.gravatar.com/avatar/afbcc323f06b5570f799a447e4d88257?s=64&rating=PG&d=http://game.citypay.org/images/profile/megajack64.png" width="64" height="64" alt=""><br /><sub><b>Jorge</b></sub></a><br /><span title="ideas">
 🤔</span> </td>
  <td align="center" width="0%"><a href="https://sourceforge.net/u/meindino/profile"><img src="https://secure.gravatar.com/avatar/4556d601b06e7c362002ff0d8bdd1ae1?s=64&rating=PG&d=monsterid" width="64" height="64" alt=""><br /><sub><b>Kevin wegga</b></sub></a><br /><span title="bug">
 🐛</span> <span title="ideas">
@@ -540,12 +540,12 @@ null</span> </td>
 🤔</span> </td>
 </tr>
 <tr>
- <td align="center" width="0%"><a href="https://sourceforge.net/u/nobun/profile"><img src="https://secure.gravatar.com/avatar/92f3024f03f22fb05a43a8ec4499346e?s=64&rating=PG&d=https://stendhalgame.org/images/profile/nobun.png" width="64" height="64" alt=""><br /><sub><b>Nobun</b></sub></a><br /><span title="ideas">
+ <td align="center" width="0%"><a href="https://sourceforge.net/u/nobun/profile"><img src="https://secure.gravatar.com/avatar/92f3024f03f22fb05a43a8ec4499346e?s=64&rating=PG&d=http://game.citypay.org/images/profile/nobun.png" width="64" height="64" alt=""><br /><sub><b>Nobun</b></sub></a><br /><span title="ideas">
 🤔</span> </td>
- <td align="center" width="0%"><a href="https://sourceforge.net/u/ogeretal/profile"><img src="https://secure.gravatar.com/avatar/83b7b985f0d1af66c59f51f6f11fa1e9?s=64&rating=PG&d=https://stendhalgame.org/images/profile/ogeretal.png" width="64" height="64" alt=""><br /><sub><b>Ogeretal</b></sub></a><br /><span title="bug">
+ <td align="center" width="0%"><a href="https://sourceforge.net/u/ogeretal/profile"><img src="https://secure.gravatar.com/avatar/83b7b985f0d1af66c59f51f6f11fa1e9?s=64&rating=PG&d=http://game.citypay.org/images/profile/ogeretal.png" width="64" height="64" alt=""><br /><sub><b>Ogeretal</b></sub></a><br /><span title="bug">
 🐛</span> <span title="ideas">
 🤔</span> </td>
- <td align="center" width="0%"><a href="https://sourceforge.net/u/palmmon/profile"><img src="https://secure.gravatar.com/avatar/328a962932d43454400a0c702618e9f8?s=64&rating=PG&d=https://stendhalgame.org/images/profile/palmmon.png" width="64" height="64" alt=""><br /><sub><b>PalmMon</b></sub></a><br /><span title="bug">
+ <td align="center" width="0%"><a href="https://sourceforge.net/u/palmmon/profile"><img src="https://secure.gravatar.com/avatar/328a962932d43454400a0c702618e9f8?s=64&rating=PG&d=http://game.citypay.org/images/profile/palmmon.png" width="64" height="64" alt=""><br /><sub><b>PalmMon</b></sub></a><br /><span title="bug">
 🐛</span> <span title="ideas">
 🤔</span> </td>
  <td align="center" width="0%"><a href="https://sourceforge.net/u/priest333/profile"><img src="https://secure.gravatar.com/avatar/626d2e7a29bd7e1e1ec48445ff6f9100?s=64&rating=PG&d=retro" width="64" height="64" alt=""><br /><sub><b>Priest</b></sub></a><br /><span title="ideas">
@@ -562,7 +562,7 @@ null</span> </td>
  <td align="center" width="0%"><a href="https://sourceforge.net/u/rogan2/profile"><img src="https://secure.gravatar.com/avatar/458b976bd412725df2fea09926ff7841?s=64&rating=PG&d=monsterid" width="64" height="64" alt=""><br /><sub><b>Pavel Salamon</b></sub></a><br /><span title="bug">
 🐛</span> <span title="ideas">
 🤔</span> </td>
- <td align="center" width="0%"><a href="https://sourceforge.net/u/romzizo/profile"><img src="https://secure.gravatar.com/avatar/ee533d85e37a64cd9cfdba83a8b7327b?s=64&rating=PG&d=https://stendhalgame.org/images/profile/romzizo.png" width="64" height="64" alt=""><br /><sub><b>Wojciech Glapa</b></sub></a><br /><span title="ideas">
+ <td align="center" width="0%"><a href="https://sourceforge.net/u/romzizo/profile"><img src="https://secure.gravatar.com/avatar/ee533d85e37a64cd9cfdba83a8b7327b?s=64&rating=PG&d=http://game.citypay.org/images/profile/romzizo.png" width="64" height="64" alt=""><br /><sub><b>Wojciech Glapa</b></sub></a><br /><span title="ideas">
 🤔</span> </td>
  <td align="center" width="0%"><a href="https://sourceforge.net/u/ronwalf/profile"><img src="https://secure.gravatar.com/avatar/4dd9eeaf634caaab7ac322a9382bdc33?s=64&rating=PG&d=wavatar" width="64" height="64" alt=""><br /><sub><b>Ron Alford</b></sub></a><br /><span title="bug">
 🐛</span> </td>
@@ -580,7 +580,7 @@ null</span> </td>
 🐛</span> </td>
  <td align="center" width="0%"><a href="https://sourceforge.net/u/schmidta_/profile"><img src="https://secure.gravatar.com/avatar/4bd162ea6eac1bcf322f80039cd6a056?s=64&rating=PG&d=robohash" width="64" height="64" alt=""><br /><sub><b>schmidta_</b></sub></a><br /><span title="ideas">
 🤔</span> </td>
- <td align="center" width="0%"><a href="https://sourceforge.net/u/selenil/profile"><img src="https://secure.gravatar.com/avatar/7c3c722ae29c1a07a33eeb8fa4914554?s=64&rating=PG&d=https://stendhalgame.org/images/profile/selenil.png" width="64" height="64" alt=""><br /><sub><b>selenil</b></sub></a><br /><span title="ideas">
+ <td align="center" width="0%"><a href="https://sourceforge.net/u/selenil/profile"><img src="https://secure.gravatar.com/avatar/7c3c722ae29c1a07a33eeb8fa4914554?s=64&rating=PG&d=http://game.citypay.org/images/profile/selenil.png" width="64" height="64" alt=""><br /><sub><b>selenil</b></sub></a><br /><span title="ideas">
 🤔</span> </td>
  <td align="center" width="0%"><a href="https://sourceforge.net/u/sf-robot/profile"><img src="https://secure.gravatar.com/avatar/954bc49aec1a4e4ce9b032903707ca1e?s=64&rating=PG&d=robohash" width="64" height="64" alt=""><br /><sub><b>SourceForge Robot</b></sub></a><br /><span title="bug">
 🐛</span> <span title="ideas">
@@ -604,10 +604,10 @@ null</span> </td>
 🐛</span> </td>
 </tr>
 <tr>
- <td align="center" width="0%"><a href="https://sourceforge.net/u/snaketails/profile"><img src="https://secure.gravatar.com/avatar/261db9c1aa0373aee401820db04913c0?s=64&rating=PG&d=https://stendhalgame.org/images/profile/snaketails.png" width="64" height="64" alt=""><br /><sub><b>Snaketails</b></sub></a><br /><span title="bug">
+ <td align="center" width="0%"><a href="https://sourceforge.net/u/snaketails/profile"><img src="https://secure.gravatar.com/avatar/261db9c1aa0373aee401820db04913c0?s=64&rating=PG&d=http://game.citypay.org/images/profile/snaketails.png" width="64" height="64" alt=""><br /><sub><b>Snaketails</b></sub></a><br /><span title="bug">
 🐛</span> <span title="ideas">
 🤔</span> </td>
- <td align="center" width="0%"><a href="https://sourceforge.net/u/snakevip/profile"><img src="https://secure.gravatar.com/avatar/09c49912436b6984160697f362ec20fa?s=64&rating=PG&d=https://stendhalgame.org/images/profile/snakevip.png" width="64" height="64" alt=""><br /><sub><b>snakevip</b></sub></a><br /><span title="security">
+ <td align="center" width="0%"><a href="https://sourceforge.net/u/snakevip/profile"><img src="https://secure.gravatar.com/avatar/09c49912436b6984160697f362ec20fa?s=64&rating=PG&d=http://game.citypay.org/images/profile/snakevip.png" width="64" height="64" alt=""><br /><sub><b>snakevip</b></sub></a><br /><span title="security">
 🛡️</span> <span title="ideas">
 🤔</span> </td>
  <td align="center" width="0%"><a href="https://sourceforge.net/u/speedsk8r2499/profile"><img src="https://secure.gravatar.com/avatar/fab4e0fbf74da11f12454d8d2ddf4873?s=64&rating=PG&d=monsterid" width="64" height="64" alt=""><br /><sub><b>speedsk8r2499</b></sub></a><br /><span title="bug">
@@ -628,7 +628,7 @@ null</span> </td>
 🐛</span> </td>
  <td align="center" width="0%"><a href="https://sourceforge.net/u/t4shen/profile"><img src="https://secure.gravatar.com/avatar/b0a4d409891472d2ff4896a55c5c324e?s=64&rating=PG&d=monsterid" width="64" height="64" alt=""><br /><sub><b>u4981890</b></sub></a><br /><span title="ideas">
 🤔</span> </td>
- <td align="center" width="0%"><a href="https://sourceforge.net/u/taberenc/profile"><img src="https://secure.gravatar.com/avatar/1ce37da568973ef99aa30a9626ac1af6?s=64&rating=PG&d=https://stendhalgame.org/images/profile/reburbujo.png" width="64" height="64" alt=""><br /><sub><b>reburbujo</b></sub></a><br /><span title="bug">
+ <td align="center" width="0%"><a href="https://sourceforge.net/u/taberenc/profile"><img src="https://secure.gravatar.com/avatar/1ce37da568973ef99aa30a9626ac1af6?s=64&rating=PG&d=http://game.citypay.org/images/profile/reburbujo.png" width="64" height="64" alt=""><br /><sub><b>reburbujo</b></sub></a><br /><span title="bug">
 🐛</span> <span title="ideas">
 🤔</span> </td>
  <td align="center" width="0%"><a href="https://sourceforge.net/u/tari_stendhal/profile"><img src="https://secure.gravatar.com/avatar/5e795e9d20aab3473d4cc14fb96348a8?s=64&rating=PG&d=monsterid" width="64" height="64" alt=""><br /><sub><b>Tari</b></sub></a><br /><span title="bug">
@@ -691,7 +691,7 @@ null</span> </td>
  <td align="center" width="0%"><a href="https://sourceforge.net/u/yetisyny/profile"><img src="https://secure.gravatar.com/avatar/9494dd525d0729f12f0d90420d994b00?s=64&rating=PG&d=monsterid" width="64" height="64" alt=""><br /><sub><b>Rich McGrew</b></sub></a><br /><span title="bug">
 🐛</span> <span title="ideas">
 🤔</span> </td>
- <td align="center" width="0%"><a href="https://sourceforge.net/u/yugiohjcj/profile"><img src="https://secure.gravatar.com/avatar/4aada1b94cbb2ce5417fca6f313e4223?s=64&rating=PG&d=https://stendhalgame.org/images/profile/yugiohjcj.png" width="64" height="64" alt=""><br /><sub><b>YuGiOhJCJ</b></sub></a><br /><span title="bug">
+ <td align="center" width="0%"><a href="https://sourceforge.net/u/yugiohjcj/profile"><img src="https://secure.gravatar.com/avatar/4aada1b94cbb2ce5417fca6f313e4223?s=64&rating=PG&d=http://game.citypay.org/images/profile/yugiohjcj.png" width="64" height="64" alt=""><br /><sub><b>YuGiOhJCJ</b></sub></a><br /><span title="bug">
 🐛</span> <span title="ideas">
 🤔</span> </td>
  <td align="center" width="0%"><a href="https://sourceforge.net/u/zbrown111/profile"><img src="https://secure.gravatar.com/avatar/d45b1f5e5ba6003407bf0b9a0dcb175f?s=64&rating=PG&d=wavatar" width="64" height="64" alt=""><br /><sub><b>PhatBass</b></sub></a><br /><span title="ideas">
@@ -713,14 +713,14 @@ null</span> </td>
 🐛</span> </td>
  <td align="center" width="0%"><a href="https://sourceforge.net/u/zymora/profile"><img src="https://secure.gravatar.com/avatar/79c9537bbcb4a7e7ba97323822d1ccc5?s=64&rating=PG&d=robohash" width="64" height="64" alt=""><br /><sub><b>Annika Gareis</b></sub></a><br /><span title="bug">
 🐛</span> </td>
- <td align="center" width="0%"><a href=""><img src="https://stendhalgame.org/images/profile/flareon.png" width="64" height="64" alt=""><br /><sub><b>flareon</b></sub></a><br /><span title="ideas">
+ <td align="center" width="0%"><a href=""><img src="http://game.citypay.org/images/profile/flareon.png" width="64" height="64" alt=""><br /><sub><b>flareon</b></sub></a><br /><span title="ideas">
 🤔</span> <span title="bug">
 🐛</span> </td>
- <td align="center" width="0%"><a href=""><img src="https://stendhalgame.org/images/profile/marcospdsf.png" width="64" height="64" alt=""><br /><sub><b>marcospdsf</b></sub></a><br /><span title="ideas">
+ <td align="center" width="0%"><a href=""><img src="http://game.citypay.org/images/profile/marcospdsf.png" width="64" height="64" alt=""><br /><sub><b>marcospdsf</b></sub></a><br /><span title="ideas">
 🤔</span> </td>
 </tr>
 <tr>
- <td align="center" width="0%"><a href=""><img src="https://stendhalgame.org/images/profile/xkimetx.png" width="64" height="64" alt=""><br /><sub><b>kimet</b></sub></a><br /><span title="ideas">
+ <td align="center" width="0%"><a href=""><img src="http://game.citypay.org/images/profile/xkimetx.png" width="64" height="64" alt=""><br /><sub><b>kimet</b></sub></a><br /><span title="ideas">
 🤔</span> </td>
  <td align="center" width="0%"><a href="https://github.com/maxgmer"><img src="https://avatars0.githubusercontent.com/u/24964174" width="64" height="64" alt=""><br /><sub><b>maxgmer</b></sub></a><br /><span title="code">
 💻</span> </td>

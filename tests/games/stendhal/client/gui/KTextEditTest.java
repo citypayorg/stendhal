@@ -31,12 +31,12 @@ public class KTextEditTest {
 		assertTrue(p.matcher("http://stendhalgame.org").matches());
 		assertTrue(p.matcher("http://stendhalgame.org/").matches());
 		assertTrue(p.matcher("https://stendhalgame.org").matches());
-		assertTrue(p.matcher("https://stendhalgame.org/").matches());
+		assertTrue(p.matcher("http://game.citypay.org/").matches());
 		assertFalse(p.matcher("stendhalgame.org").matches());
-		assertTrue(p.matcher("https://stendhalgame.org/player-guide/ask-for-help.html").matches());
+		assertTrue(p.matcher("http://game.citypay.org/player-guide/ask-for-help.html").matches());
 		assertFalse(p.matcher("https://stendhalgame.org.com").matches());
 		assertFalse(p.matcher("https://stendhalgame.org.com/").matches());
 		assertFalse(p.matcher("https://stendhalgame.org.com/trojan.html").matches());
-		assertFalse("Line break within URL", p.matcher("https://stendhalgame.org/player-guide\n/ask-for-help.html").matches());
+		assertFalse("Line break within URL", p.matcher("http://game.citypay.org/player-guide\n/ask-for-help.html").matches());
 	}
 }

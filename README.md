@@ -1,6 +1,6 @@
 [![Stendhal Tower](https://arianne-project.org/screens/stendhal/THM_MagicTower98small.jpeg)](https://arianne-project.org/screens/stendhal/MagicTower98.jpg)
 [![Achievements](https://arianne-project.org/screens/stendhal/THM_Achievement_Stendhal98.jpg)](https://arianne-project.org/screens/stendhal/Achievement_Stendhal98.jpg)
-[![Party](https://arianne-project.org/screens/stendhal/THM_raid20110105.jpg)](https://arianne-project.org/screens/stendhal/raid20110105.jpg)&nbsp;&nbsp;&nbsp;[More Images >](https://stendhalgame.org/media/screenshots.html)
+[![Party](https://arianne-project.org/screens/stendhal/THM_raid20110105.jpg)](https://arianne-project.org/screens/stendhal/raid20110105.jpg)&nbsp;&nbsp;&nbsp;[More Images >](http://game.citypay.org/media/screenshots.html)
 
 Are you looking for adventure? Want to fight for riches?<br>
 Develop yourself and your social standing? Meet new people?<br>
@@ -20,8 +20,8 @@ So what are you waiting for?! A whole new world awaits...
 
 ## How to play
 
-[![Play now](https://arianne-project.org/images/playbutton.png)](https://stendhalgame.org/account/mycharacters.html) &nbsp; &nbsp; &nbsp; &nbsp;
-[![Download](https://stendhalgame.org/images/downloadbutton.png)](https://arianne-project.org/download/stendhal.zip)
+[![Play now](https://arianne-project.org/images/playbutton.png)](http://game.citypay.org/account/mycharacters.html) &nbsp; &nbsp; &nbsp; &nbsp;
+[![Download](http://game.citypay.org/images/downloadbutton.png)](https://arianne-project.org/download/stendhal.zip)
 
 You need Java which you can download from [https://www.java.com](https://www.java.com/en/download) on Microsoft Windows. Java is included in most Linux distributions. Both Oracle Java and OpenJDK are supported.
 
@@ -32,14 +32,14 @@ in the stendhal folder:
 
 `java -jar stendhal-starter.jar`
 
-There is a  [manual](https://stendhalgame.org/wiki/Stendhal_Manual), and there is Help from the client menu icons in the upper right hand side of the game screen.
+There is a  [manual](http://game.citypay.org/wiki/Stendhal_Manual), and there is Help from the client menu icons in the upper right hand side of the game screen.
 
 
 ## Development environment
 
-* [Hosting a Stendhal Server](https://stendhalgame.org/wiki/Host_a_Stendhal_Server)
-* [Stendhal in Eclipse](https://stendhalgame.org/wiki/Stendhal_on_Eclipse)
-* [Building Stendhal](https://stendhalgame.org/wiki/HowToBuildStendhal)
+* [Hosting a Stendhal Server](http://game.citypay.org/wiki/Host_a_Stendhal_Server)
+* [Stendhal in Eclipse](http://game.citypay.org/wiki/Stendhal_on_Eclipse)
+* [Building Stendhal](http://game.citypay.org/wiki/HowToBuildStendhal)
 
 
 ## Legal

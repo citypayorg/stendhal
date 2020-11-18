@@ -43,7 +43,7 @@ class GMHelpAction implements SlashAction {
 	    List<String> lines;
 		if (params[0] == null) {
 			lines = Arrays.asList(
-				"For a detailed reference, visit #https://stendhalgame.org/wiki/Stendhal:Administration",
+				"For a detailed reference, visit #http://game.citypay.org/wiki/Stendhal:Administration",
 				"Here are the most-used GM commands:",
 				"* GENERAL:",
 				"- /gmhelp [alter|script|support]",

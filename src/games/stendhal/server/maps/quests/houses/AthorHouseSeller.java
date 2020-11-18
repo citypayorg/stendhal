@@ -78,7 +78,7 @@ final class AthorHouseSeller extends HouseSellerNPCBase {
 				new BuyHouseChatAction(getCost(), QUEST_SLOT));
 
 
-		addJob("Well, I'm actually trying to sunbathe here. But, since you ask, I sell apartments here on Athor. Our brochure is at #https://stendhalgame.org/wiki/StendhalHouses.");
+		addJob("Well, I'm actually trying to sunbathe here. But, since you ask, I sell apartments here on Athor. Our brochure is at #http://game.citypay.org/wiki/StendhalHouses.");
 		addReply("fisherman", "A fishing license from Santiago in Ados is the sign of a good fisherman, he sets two exams. Once you have passed both parts you are a good fisherman.");
 		setDirection(Direction.DOWN);
 		setDescription("You see a man trying to catch some sun.");

@@ -154,7 +154,7 @@ public class StendhalFirstScreen extends JFrame {
 		Action helpAction = new AbstractAction("Help") {
 			@Override
 			public void actionPerformed(ActionEvent e) {
-				BareBonesBrowserLaunch.openURL("https://stendhalgame.org/wiki/Stendhal_Manual");
+				BareBonesBrowserLaunch.openURL("http://game.citypay.org/wiki/Stendhal_Manual");
 			}
 		};
 		helpAction.putValue(Action.MNEMONIC_KEY, KeyEvent.VK_H);

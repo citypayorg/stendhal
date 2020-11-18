@@ -293,7 +293,7 @@ stendhal.slashActionRepository = {
 	"help": {
 		execute: function(type, params, remainder) {
 			var msg = [
-				"For a detailed reference, visit #https://stendhalgame.org/wiki/Stendhal_Manual",
+				"For a detailed reference, visit #http://game.citypay.org/wiki/Stendhal_Manual",
 				"Here are the most-used commands:",
 				"* CHATTING:",
 				"- /me <action> \tShow a message about what you are doing.",
@@ -354,7 +354,7 @@ stendhal.slashActionRepository = {
 
 			if (params[0] == null) {
 				msg = [
-					"For a detailed reference, visit #https://stendhalgame.org/wiki/Stendhal:Administration",
+					"For a detailed reference, visit #http://game.citypay.org/wiki/Stendhal:Administration",
 					"Here are the most-used GM commands:",
 					"* GENERAL:",
 					"- /gmhelp [alter|script|support]",
@@ -900,7 +900,7 @@ stendhal.slashActionRepository = {
 
 	"atlas": {
 		execute: function(type, params, remainder) {
-			window.location = "https://stendhalgame.org/world/atlas.html?me="
+			window.location = "http://game.citypay.org/world/atlas.html?me="
 				+ marauroa.currentZoneName + "." + marauroa.me.x + "." + marauroa.me.y;
 		},
 		getMinParams: 0,
@@ -909,7 +909,7 @@ stendhal.slashActionRepository = {
 
 	"beginnersguide": {
 		execute: function(type, params, remainder) {
-			window.location = "https://stendhalgame.org/wiki/Stendhal_Beginner's_Guide";
+			window.location = "http://game.citypay.org/wiki/Stendhal_Beginner's_Guide";
 		},
 		getMinParams: 0,
 		getMaxParams: 0
@@ -917,7 +917,7 @@ stendhal.slashActionRepository = {
 
 	"characterselector": {
 		execute: function(type, params, remainder) {
-			window.location = "https://stendhalgame.org/account/mycharacters.html";
+			window.location = "http://game.citypay.org/account/mycharacters.html";
 		},
 		getMinParams: 0,
 		getMaxParams: 0
@@ -925,7 +925,7 @@ stendhal.slashActionRepository = {
 
 	"faq": {
 		execute: function(type, params, remainder) {
-			window.location = "https://stendhalgame.org/wiki/Stendhal_FAQ";
+			window.location = "http://game.citypay.org/wiki/Stendhal_FAQ";
 		},
 		getMinParams: 0,
 		getMaxParams: 0
@@ -933,7 +933,7 @@ stendhal.slashActionRepository = {
 
 	"manual": {
 		execute: function(type, params, remainder) {
-			window.location = "https://stendhalgame.org/wiki/Stendhal_Manual/Controls_and_Game_Settings";
+			window.location = "http://game.citypay.org/wiki/Stendhal_Manual/Controls_and_Game_Settings";
 		},
 		getMinParams: 0,
 		getMaxParams: 0
@@ -941,7 +941,7 @@ stendhal.slashActionRepository = {
 
 	"profile": {
 		execute: function(type, params, remainder) {
-			var url = "https://stendhalgame.org/character/";
+			var url = "http://game.citypay.org/character/";
 			var name = null;
 
 			if (params.length > 0 && params[0] != null) {
@@ -967,7 +967,7 @@ stendhal.slashActionRepository = {
 
 	"rules": {
 		execute: function(type, params, remainder) {
-			window.location = "https://stendhalgame.org/wiki/Stendhal_Rules";
+			window.location = "http://game.citypay.org/wiki/Stendhal_Rules";
 		},
 		getMinParams: 0,
 		getMaxParams: 0
@@ -975,7 +975,7 @@ stendhal.slashActionRepository = {
 
 	"changepassword": {
 		execute: function(type, params, remainder) {
-			window.location = "https://stendhalgame.org/account/change-password.html";
+			window.location = "http://game.citypay.org/account/change-password.html";
 		},
 		getMinParams: 0,
 		getMaxParams: 0
@@ -984,7 +984,7 @@ stendhal.slashActionRepository = {
 
 	"loginhistory": {
 		execute: function(type, params, remainder) {
-			window.location = "https://stendhalgame.org/account/history.html";
+			window.location = "http://game.citypay.org/account/history.html";
 		},
 		getMinParams: 0,
 		getMaxParams: 0
@@ -992,7 +992,7 @@ stendhal.slashActionRepository = {
 
 	"halloffame": {
 		execute: function(type, params, remainder) {
-			window.location = "https://stendhalgame.org/world/hall-of-fame/active_overview.html";
+			window.location = "http://game.citypay.org/world/hall-of-fame/active_overview.html";
 		},
 		getMinParams: 0,
 		getMaxParams: 0
